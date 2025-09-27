@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  data-parser:
+    image: python:3.9-slim-buster
+    container_name: docker-stats-parser
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: >
+      /bin/bash -c "pip install pandas && 
+                     python parse_docker_stats.py"

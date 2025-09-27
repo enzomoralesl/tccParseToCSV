@@ -1,0 +1,1733 @@
+Coleta iniciada em: 
+Formato das colunas no log: CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+--- START OF STATS ---
+2025-09-22 21:20:35
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      0.25%     134.7MiB / 512MiB   26.32%    23.5kB / 25.4kB   0B / 0B     31
+eee16608eae8   postgres_db   0.01%     64.24MiB / 512MiB   12.55%    26.9kB / 22kB     0B / 0B     11
+--- END OF SAMPLE 1 ---
+2025-09-22 21:20:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      78.96%    158.1MiB / 512MiB   30.89%    985kB / 1.15MB   0B / 0B     31
+eee16608eae8   postgres_db   7.04%     74.54MiB / 512MiB   14.56%    295kB / 345kB    0B / 0B     16
+--- END OF SAMPLE 2 ---
+2025-09-22 21:20:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      124.11%   227.8MiB / 512MiB   44.50%    6.01MB / 7.1MB    0B / 0B     31
+eee16608eae8   postgres_db   13.88%    105MiB / 512MiB     20.50%    2.56MB / 3.27MB   0B / 0B     33
+--- END OF SAMPLE 3 ---
+2025-09-22 21:20:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      140.35%   191.5MiB / 512MiB   37.41%    10.9MB / 12.9MB   0B / 0B     31
+eee16608eae8   postgres_db   15.11%    107MiB / 512MiB     20.91%    5.52MB / 7.52MB   0B / 0B     34
+--- END OF SAMPLE 4 ---
+2025-09-22 21:21:08
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.19%   155.4MiB / 512MiB   30.36%    18.5MB / 21.7MB   0B / 0B     31
+eee16608eae8   postgres_db   16.00%    97.46MiB / 512MiB   19.03%    8.04MB / 11.4MB   0B / 0B     29
+--- END OF SAMPLE 5 ---
+2025-09-22 21:21:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      145.93%   234.2MiB / 512MiB   45.75%    25.4MB / 29.9MB   0B / 0B     31
+eee16608eae8   postgres_db   17.37%    121.2MiB / 512MiB   23.67%    11.5MB / 17.4MB   0B / 0B     42
+--- END OF SAMPLE 6 ---
+2025-09-22 21:21:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      132.88%   234.8MiB / 512MiB   45.86%    34.1MB / 40.3MB   0B / 0B     31
+eee16608eae8   postgres_db   17.27%    136.2MiB / 512MiB   26.60%    14MB / 22MB       0B / 0B     50
+--- END OF SAMPLE 7 ---
+2025-09-22 21:21:31
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      150.24%   207.1MiB / 512MiB   40.45%    42MB / 49.8MB     0B / 0B     31
+eee16608eae8   postgres_db   21.79%    131.2MiB / 512MiB   25.63%    17.1MB / 27.6MB   0B / 0B     49
+--- END OF SAMPLE 8 ---
+2025-09-22 21:21:41
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.41%   214.8MiB / 512MiB   41.96%    50.7MB / 60.6MB   0B / 0B     30
+eee16608eae8   postgres_db   17.66%    146.9MiB / 512MiB   28.69%    20.4MB / 34MB     0B / 0B     56
+--- END OF SAMPLE 9 ---
+2025-09-22 21:21:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      149.33%   237.6MiB / 512MiB   46.40%    58.4MB / 70.1MB   0B / 0B     31
+eee16608eae8   postgres_db   17.60%    184MiB / 512MiB     35.93%    24MB / 41.3MB     0B / 0B     77
+--- END OF SAMPLE 10 ---
+2025-09-22 21:21:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.17%   197.8MiB / 512MiB   38.63%    67.3MB / 81.1MB   0B / 0B     27
+eee16608eae8   postgres_db   20.15%    189.1MiB / 512MiB   36.94%    27.2MB / 47.9MB   0B / 0B     82
+--- END OF SAMPLE 11 ---
+2025-09-22 21:22:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      149.48%   196.1MiB / 512MiB   38.31%    78.5MB / 95.3MB   0B / 0B     31
+eee16608eae8   postgres_db   20.00%    162.2MiB / 512MiB   31.68%    30MB / 54.4MB     0B / 0B     68
+--- END OF SAMPLE 12 ---
+2025-09-22 21:22:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      138.59%   240.5MiB / 512MiB   46.97%    87.2MB / 106MB    0B / 0B     31
+eee16608eae8   postgres_db   19.62%    180.9MiB / 512MiB   35.33%    33.7MB / 63.2MB   0B / 0B     75
+--- END OF SAMPLE 13 ---
+2025-09-22 21:22:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      147.75%   226MiB / 512MiB     44.14%    97.3MB / 119MB   0B / 0B     30
+eee16608eae8   postgres_db   19.23%    176.3MiB / 512MiB   34.43%    36.8MB / 71MB    0B / 0B     76
+--- END OF SAMPLE 14 ---
+2025-09-22 21:22:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.54%   202.2MiB / 512MiB   39.50%    110MB / 134MB     0B / 0B     30
+eee16608eae8   postgres_db   18.46%    187.8MiB / 512MiB   36.68%    39.6MB / 78.8MB   0B / 0B     82
+--- END OF SAMPLE 15 ---
+2025-09-22 21:22:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      150.48%   242MiB / 512MiB     47.26%    119MB / 146MB   0B / 0B     31
+eee16608eae8   postgres_db   9.12%     228.9MiB / 512MiB   44.71%    42.4MB / 86MB   0B / 0B     103
+--- END OF SAMPLE 16 ---
+2025-09-22 21:22:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      149.05%   228.2MiB / 512MiB   44.58%    130MB / 160MB     0B / 0B     31
+eee16608eae8   postgres_db   20.68%    225.2MiB / 512MiB   43.99%    45.5MB / 94.2MB   0B / 0B     105
+--- END OF SAMPLE 17 ---
+2025-09-22 21:22:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      149.31%   242.9MiB / 512MiB   47.44%    141MB / 175MB    0B / 0B     31
+eee16608eae8   postgres_db   19.61%    166.2MiB / 512MiB   32.47%    49.5MB / 106MB   0B / 0B     67
+--- END OF SAMPLE 18 ---
+2025-09-22 21:23:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      145.96%   243.3MiB / 512MiB   47.52%    153MB / 189MB    0B / 0B     31
+eee16608eae8   postgres_db   17.92%    249.3MiB / 512MiB   48.69%    52.8MB / 115MB   0B / 0B     114
+--- END OF SAMPLE 19 ---
+2025-09-22 21:23:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.81%   213.6MiB / 512MiB   41.71%    166MB / 207MB    0B / 0B     31
+eee16608eae8   postgres_db   22.85%    191.6MiB / 512MiB   37.42%    55.5MB / 124MB   0B / 0B     91
+--- END OF SAMPLE 20 ---
+2025-09-22 21:23:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      147.31%   243.5MiB / 512MiB   47.55%    178MB / 222MB    0B / 0B     31
+eee16608eae8   postgres_db   18.38%    215.7MiB / 512MiB   42.13%    59.3MB / 136MB   0B / 0B     95
+--- END OF SAMPLE 21 ---
+2025-09-22 21:23:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      148.61%   229.8MiB / 512MiB   44.89%    190MB / 237MB    0B / 0B     31
+eee16608eae8   postgres_db   17.84%    252.3MiB / 512MiB   49.27%    62.4MB / 146MB   0B / 0B     116
+--- END OF SAMPLE 22 ---
+2025-09-22 21:23:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.31%   210.1MiB / 512MiB   41.03%    203MB / 255MB    0B / 0B     30
+eee16608eae8   postgres_db   18.81%    215.1MiB / 512MiB   42.02%    65.6MB / 157MB   0B / 0B     105
+--- END OF SAMPLE 23 ---
+2025-09-22 21:23:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.48%   250.9MiB / 512MiB   49.00%    219MB / 275MB    0B / 0B     30
+eee16608eae8   postgres_db   17.45%    249.9MiB / 512MiB   48.81%    68.6MB / 167MB   0B / 0B     114
+--- END OF SAMPLE 24 ---
+2025-09-22 21:23:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.53%   230.8MiB / 512MiB   45.08%    230MB / 289MB    0B / 0B     31
+eee16608eae8   postgres_db   19.56%    254.5MiB / 512MiB   49.70%    72.2MB / 180MB   0B / 0B     118
+--- END OF SAMPLE 25 ---
+2025-09-22 21:24:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.68%   231.9MiB / 512MiB   45.29%    247MB / 312MB    0B / 0B     31
+eee16608eae8   postgres_db   20.48%    241.5MiB / 512MiB   47.17%    75.1MB / 190MB   0B / 0B     115
+--- END OF SAMPLE 26 ---
+2025-09-22 21:24:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.26%   228.7MiB / 512MiB   44.66%    261MB / 330MB    0B / 0B     31
+eee16608eae8   postgres_db   20.33%    223.7MiB / 512MiB   43.69%    78.4MB / 202MB   0B / 0B     101
+--- END OF SAMPLE 27 ---
+2025-09-22 21:24:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.08%   201MiB / 512MiB     39.26%    275MB / 349MB    0B / 0B     31
+eee16608eae8   postgres_db   18.81%    157.5MiB / 512MiB   30.75%    81.5MB / 215MB   0B / 0B     67
+--- END OF SAMPLE 28 ---
+2025-09-22 21:24:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.88%   216MiB / 512MiB     42.19%    288MB / 366MB    0B / 0B     31
+eee16608eae8   postgres_db   21.14%    206.9MiB / 512MiB   40.41%    85.2MB / 229MB   0B / 0B     93
+--- END OF SAMPLE 29 ---
+2025-09-22 21:24:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      174.24%   200.1MiB / 512MiB   39.08%    303MB / 385MB    0B / 0B     31
+eee16608eae8   postgres_db   22.04%    246.9MiB / 512MiB   48.23%    88.2MB / 241MB   0B / 0B     118
+--- END OF SAMPLE 30 ---
+2025-09-22 21:24:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.58%   255.1MiB / 512MiB   49.81%    315MB / 401MB    0B / 0B     30
+eee16608eae8   postgres_db   10.17%    242.1MiB / 512MiB   47.28%    89.7MB / 248MB   0B / 0B     111
+--- END OF SAMPLE 31 ---
+2025-09-22 21:24:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.76%   212.9MiB / 512MiB   41.58%    328MB / 418MB    0B / 0B     31
+eee16608eae8   postgres_db   21.14%    245.8MiB / 512MiB   48.01%    93.3MB / 263MB   0B / 0B     117
+--- END OF SAMPLE 32 ---
+2025-09-22 21:25:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.54%   216.2MiB / 512MiB   42.23%    348MB / 444MB    0B / 0B     31
+eee16608eae8   postgres_db   17.96%    190MiB / 512MiB     37.10%    96.1MB / 276MB   0B / 0B     85
+--- END OF SAMPLE 33 ---
+2025-09-22 21:25:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.13%   246.3MiB / 512MiB   48.11%    364MB / 466MB    0B / 0B     31
+eee16608eae8   postgres_db   19.66%    254.3MiB / 512MiB   49.67%    99.3MB / 290MB   0B / 0B     117
+--- END OF SAMPLE 34 ---
+2025-09-22 21:25:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.91%   232.2MiB / 512MiB   45.35%    380MB / 486MB   0B / 0B     31
+eee16608eae8   postgres_db   25.01%    227.9MiB / 512MiB   44.51%    102MB / 304MB   0B / 0B     108
+--- END OF SAMPLE 35 ---
+2025-09-22 21:25:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.34%   247.1MiB / 512MiB   48.26%    399MB / 511MB   0B / 0B     31
+eee16608eae8   postgres_db   17.44%    261MiB / 512MiB     50.98%    106MB / 320MB   0B / 0B     120
+--- END OF SAMPLE 36 ---
+2025-09-22 21:25:33
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.70%   231.3MiB / 512MiB   45.17%    414MB / 531MB   0B / 0B     31
+eee16608eae8   postgres_db   19.59%    220.5MiB / 512MiB   43.06%    109MB / 333MB   0B / 0B     102
+--- END OF SAMPLE 37 ---
+2025-09-22 21:25:40
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.93%   213.6MiB / 512MiB   41.73%    432MB / 555MB   0B / 0B     31
+eee16608eae8   postgres_db   21.66%    173.8MiB / 512MiB   33.95%    112MB / 350MB   0B / 0B     72
+--- END OF SAMPLE 38 ---
+2025-09-22 21:25:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.42%   222MiB / 512MiB     43.36%    450MB / 579MB   0B / 0B     31
+eee16608eae8   postgres_db   17.30%    256.4MiB / 512MiB   50.08%    115MB / 365MB   0B / 0B     118
+--- END OF SAMPLE 39 ---
+2025-09-22 21:25:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.24%   215.3MiB / 512MiB   42.04%    465MB / 599MB   0B / 0B     31
+eee16608eae8   postgres_db   20.51%    244.6MiB / 512MiB   47.77%    118MB / 382MB   0B / 0B     113
+--- END OF SAMPLE 40 ---
+2025-09-22 21:26:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.05%   231MiB / 512MiB     45.12%    484MB / 624MB   0B / 0B     31
+eee16608eae8   postgres_db   15.78%    235.4MiB / 512MiB   45.97%    122MB / 399MB   0B / 0B     111
+--- END OF SAMPLE 41 ---
+2025-09-22 21:26:13
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.54%   230.3MiB / 512MiB   44.98%    500MB / 645MB   0B / 0B     31
+eee16608eae8   postgres_db   18.53%    247.3MiB / 512MiB   48.30%    125MB / 413MB   0B / 0B     117
+--- END OF SAMPLE 42 ---
+2025-09-22 21:26:21
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.47%   218.8MiB / 512MiB   42.73%    521MB / 673MB   0B / 0B     31
+eee16608eae8   postgres_db   19.06%    191.9MiB / 512MiB   37.48%    127MB / 428MB   0B / 0B     95
+--- END OF SAMPLE 43 ---
+2025-09-22 21:26:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.26%   246.8MiB / 512MiB   48.20%    535MB / 692MB   0B / 0B     31
+eee16608eae8   postgres_db   18.46%    257.2MiB / 512MiB   50.23%    131MB / 444MB   0B / 0B     118
+--- END OF SAMPLE 44 ---
+2025-09-22 21:26:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.33%   215.8MiB / 512MiB   42.15%    553MB / 715MB   0B / 0B     31
+eee16608eae8   postgres_db   22.37%    205MiB / 512MiB     40.04%    134MB / 459MB   0B / 0B     94
+--- END OF SAMPLE 45 ---
+2025-09-22 21:26:46
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.10%   247.1MiB / 512MiB   48.26%    571MB / 740MB   0B / 0B     31
+eee16608eae8   postgres_db   16.17%    257.8MiB / 512MiB   50.34%    137MB / 476MB   0B / 0B     118
+--- END OF SAMPLE 46 ---
+2025-09-22 21:26:54
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.17%   232.9MiB / 512MiB   45.49%    588MB / 762MB   0B / 0B     31
+eee16608eae8   postgres_db   18.71%    227.5MiB / 512MiB   44.44%    139MB / 486MB   0B / 0B     108
+--- END OF SAMPLE 47 ---
+2025-09-22 21:27:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.03%   232.1MiB / 512MiB   45.34%    607MB / 788MB   0B / 0B     31
+eee16608eae8   postgres_db   19.80%    220.8MiB / 512MiB   43.12%    142MB / 503MB   0B / 0B     102
+--- END OF SAMPLE 48 ---
+2025-09-22 21:27:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.05%   246.8MiB / 512MiB   48.20%    627MB / 813MB   0B / 0B     31
+eee16608eae8   postgres_db   19.18%    250.3MiB / 512MiB   48.89%    145MB / 520MB   0B / 0B     116
+--- END OF SAMPLE 49 ---
+2025-09-22 21:27:19
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.63%   232MiB / 512MiB     45.31%    645MB / 837MB   0B / 0B     31
+eee16608eae8   postgres_db   19.91%    220.8MiB / 512MiB   43.12%    148MB / 536MB   0B / 0B     108
+--- END OF SAMPLE 50 ---
+2025-09-22 21:27:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.37%   247.3MiB / 512MiB   48.30%    661MB / 860MB   0B / 0B     31
+eee16608eae8   postgres_db   17.85%    214.2MiB / 512MiB   41.84%    152MB / 556MB   0B / 0B     94
+--- END OF SAMPLE 51 ---
+2025-09-22 21:27:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.05%   247.8MiB / 512MiB   48.40%    682MB / 886MB   0B / 0B     30
+eee16608eae8   postgres_db   18.92%    259.3MiB / 512MiB   50.65%    155MB / 568MB   0B / 0B     120
+--- END OF SAMPLE 52 ---
+2025-09-22 21:27:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      170.11%   215.7MiB / 512MiB   42.12%    699MB / 909MB   0B / 0B     31
+eee16608eae8   postgres_db   21.55%    169MiB / 512MiB     33.00%    158MB / 588MB   0B / 0B     77
+--- END OF SAMPLE 53 ---
+2025-09-22 21:27:52
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.72%   247MiB / 512MiB     48.24%    720MB / 937MB   0B / 0B     31
+eee16608eae8   postgres_db   17.89%    245MiB / 512MiB     47.85%    161MB / 602MB   0B / 0B     115
+--- END OF SAMPLE 54 ---
+2025-09-22 21:28:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      151.29%   247.1MiB / 512MiB   48.27%    737MB / 960MB   0B / 0B     31
+eee16608eae8   postgres_db   22.97%    254.2MiB / 512MiB   49.65%    164MB / 617MB   0B / 0B     119
+--- END OF SAMPLE 55 ---
+2025-09-22 21:28:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.43%   247.8MiB / 512MiB   48.40%    754MB / 982MB   0B / 0B     31
+eee16608eae8   postgres_db   18.61%    213MiB / 512MiB     41.61%    168MB / 637MB   0B / 0B     93
+--- END OF SAMPLE 56 ---
+2025-09-22 21:28:18
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.61%   231.8MiB / 512MiB   45.27%    771MB / 1GB     0B / 0B     31
+eee16608eae8   postgres_db   18.77%    246.7MiB / 512MiB   48.19%    171MB / 652MB   0B / 0B     113
+--- END OF SAMPLE 57 ---
+2025-09-22 21:28:25
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.70%   238.6MiB / 512MiB   46.61%    792MB / 1.03GB   0B / 0B     30
+eee16608eae8   postgres_db   17.11%    208.1MiB / 512MiB   40.65%    173MB / 666MB    0B / 0B     90
+--- END OF SAMPLE 58 ---
+2025-09-22 21:28:33
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.22%   248.6MiB / 512MiB   48.56%    809MB / 1.06GB   0B / 0B     31
+eee16608eae8   postgres_db   17.52%    261.6MiB / 512MiB   51.10%    176MB / 681MB    0B / 0B     121
+--- END OF SAMPLE 59 ---
+2025-09-22 21:28:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.50%   217MiB / 512MiB     42.38%    826MB / 1.08GB   0B / 0B     31
+eee16608eae8   postgres_db   20.43%    192.4MiB / 512MiB   37.58%    179MB / 696MB    0B / 0B     91
+--- END OF SAMPLE 60 ---
+2025-09-22 21:28:51
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.40%   247.1MiB / 512MiB   48.26%    842MB / 1.1GB   0B / 0B     31
+eee16608eae8   postgres_db   16.71%    259.3MiB / 512MiB   50.65%    183MB / 715MB   0B / 0B     119
+--- END OF SAMPLE 61 ---
+2025-09-22 21:28:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.17%   230.9MiB / 512MiB   45.10%    861MB / 1.12GB   0B / 0B     31
+eee16608eae8   postgres_db   20.27%    204.4MiB / 512MiB   39.92%    185MB / 727MB    0B / 0B     92
+--- END OF SAMPLE 62 ---
+2025-09-22 21:29:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.23%   241.3MiB / 512MiB   47.13%    879MB / 1.15GB   0B / 0B     30
+eee16608eae8   postgres_db   16.16%    205MiB / 512MiB     40.04%    188MB / 743MB    0B / 0B     91
+--- END OF SAMPLE 63 ---
+2025-09-22 21:29:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.79%   246.3MiB / 512MiB   48.11%    894MB / 1.17GB   0B / 0B     31
+eee16608eae8   postgres_db   17.97%    253.8MiB / 512MiB   49.56%    191MB / 760MB    0B / 0B     117
+--- END OF SAMPLE 64 ---
+2025-09-22 21:29:24
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.41%   218.9MiB / 512MiB   42.76%    916MB / 1.2GB   0B / 0B     31
+eee16608eae8   postgres_db   18.47%    189.6MiB / 512MiB   37.02%    194MB / 775MB   0B / 0B     85
+--- END OF SAMPLE 65 ---
+2025-09-22 21:29:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.44%   247.5MiB / 512MiB   48.34%    935MB / 1.22GB   0B / 0B     31
+eee16608eae8   postgres_db   17.89%    257.9MiB / 512MiB   50.38%    197MB / 791MB    0B / 0B     119
+--- END OF SAMPLE 66 ---
+2025-09-22 21:29:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.07%   233.7MiB / 512MiB   45.65%    950MB / 1.24GB   0B / 0B     31
+eee16608eae8   postgres_db   20.33%    188.6MiB / 512MiB   36.83%    201MB / 809MB    0B / 0B     85
+--- END OF SAMPLE 67 ---
+2025-09-22 21:29:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.79%   239.8MiB / 512MiB   46.84%    969MB / 1.27GB   0B / 0B     30
+eee16608eae8   postgres_db   20.25%    199.1MiB / 512MiB   38.88%    204MB / 826MB    0B / 0B     94
+--- END OF SAMPLE 68 ---
+2025-09-22 21:29:57
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.99%   207.8MiB / 512MiB   40.59%    987MB / 1.29GB   0B / 0B     31
+eee16608eae8   postgres_db   18.60%    237.1MiB / 512MiB   46.31%    207MB / 843MB    0B / 0B     112
+--- END OF SAMPLE 69 ---
+2025-09-22 21:30:05
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.81%   234MiB / 512MiB     45.71%    1.01GB / 1.32GB   0B / 0B     31
+eee16608eae8   postgres_db   19.50%    241.4MiB / 512MiB   47.14%    210MB / 856MB     0B / 0B     115
+--- END OF SAMPLE 70 ---
+2025-09-22 21:30:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.01%   230.9MiB / 512MiB   45.10%    1.03GB / 1.35GB   0B / 0B     31
+eee16608eae8   postgres_db   20.08%    209MiB / 512MiB     40.82%    213MB / 874MB     0B / 0B     96
+--- END OF SAMPLE 71 ---
+2025-09-22 21:30:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.81%   247.6MiB / 512MiB   48.35%    1.05GB / 1.37GB   0B / 0B     31
+eee16608eae8   postgres_db   19.34%    253.5MiB / 512MiB   49.51%    216MB / 889MB     0B / 0B     117
+--- END OF SAMPLE 72 ---
+2025-09-22 21:30:30
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.27%   247MiB / 512MiB     48.23%    1.06GB / 1.39GB   0B / 0B     31
+eee16608eae8   postgres_db   19.34%    260.8MiB / 512MiB   50.94%    219MB / 906MB     0B / 0B     121
+--- END OF SAMPLE 73 ---
+2025-09-22 21:30:38
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.98%   255.3MiB / 512MiB   49.87%    1.08GB / 1.42GB   0B / 0B     30
+eee16608eae8   postgres_db   17.15%    262.5MiB / 512MiB   51.27%    222MB / 922MB     0B / 0B     121
+--- END OF SAMPLE 74 ---
+2025-09-22 21:30:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.69%   248.8MiB / 512MiB   48.60%    1.1GB / 1.44GB   0B / 0B     30
+eee16608eae8   postgres_db   19.17%    260MiB / 512MiB     50.78%    225MB / 938MB    0B / 0B     121
+--- END OF SAMPLE 75 ---
+2025-09-22 21:30:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.96%   196.7MiB / 512MiB   38.41%    1.12GB / 1.47GB   0B / 0B     30
+eee16608eae8   postgres_db   19.52%    181.3MiB / 512MiB   35.41%    228MB / 956MB     0B / 0B     76
+--- END OF SAMPLE 76 ---
+2025-09-22 21:31:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.37%   212MiB / 512MiB     41.40%    1.14GB / 1.49GB   0B / 0B     26
+eee16608eae8   postgres_db   16.91%    230.7MiB / 512MiB   45.07%    231MB / 974MB     0B / 0B     108
+--- END OF SAMPLE 77 ---
+2025-09-22 21:31:11
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      171.36%   218.4MiB / 512MiB   42.65%    1.16GB / 1.52GB   0B / 0B     31
+eee16608eae8   postgres_db   19.47%    192.6MiB / 512MiB   37.62%    234MB / 988MB     0B / 0B     91
+--- END OF SAMPLE 78 ---
+2025-09-22 21:31:18
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.79%   254.2MiB / 512MiB   49.65%    1.17GB / 1.54GB   0B / 0B     30
+eee16608eae8   postgres_db   17.39%    169.3MiB / 512MiB   33.07%    237MB / 1.01GB    0B / 0B     73
+--- END OF SAMPLE 79 ---
+2025-09-22 21:31:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.73%   247.2MiB / 512MiB   48.28%    1.19GB / 1.57GB   0B / 0B     31
+eee16608eae8   postgres_db   21.12%    255.9MiB / 512MiB   49.99%    239MB / 1.02GB    0B / 0B     121
+--- END OF SAMPLE 80 ---
+2025-09-22 21:31:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.34%   221.8MiB / 512MiB   43.31%    1.21GB / 1.59GB   0B / 0B     27
+eee16608eae8   postgres_db   18.73%    245.1MiB / 512MiB   47.87%    243MB / 1.04GB    0B / 0B     116
+--- END OF SAMPLE 81 ---
+2025-09-22 21:31:44
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.19%   247.5MiB / 512MiB   48.34%    1.23GB / 1.62GB   0B / 0B     31
+eee16608eae8   postgres_db   18.52%    258.1MiB / 512MiB   50.41%    246MB / 1.06GB    0B / 0B     119
+--- END OF SAMPLE 82 ---
+2025-09-22 21:31:51
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.64%   236.4MiB / 512MiB   46.18%    1.25GB / 1.64GB   0B / 0B     30
+eee16608eae8   postgres_db   17.95%    250.2MiB / 512MiB   48.87%    249MB / 1.07GB    0B / 0B     119
+--- END OF SAMPLE 83 ---
+2025-09-22 21:32:02
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.60%   248MiB / 512MiB     48.43%    1.27GB / 1.67GB   0B / 0B     31
+eee16608eae8   postgres_db   17.49%    249.6MiB / 512MiB   48.75%    252MB / 1.09GB    0B / 0B     115
+--- END OF SAMPLE 84 ---
+2025-09-22 21:32:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.21%   216.5MiB / 512MiB   42.29%    1.29GB / 1.7GB   0B / 0B     31
+eee16608eae8   postgres_db   18.71%    195.1MiB / 512MiB   38.10%    255MB / 1.11GB   0B / 0B     87
+--- END OF SAMPLE 85 ---
+2025-09-22 21:32:17
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.56%   241.4MiB / 512MiB   47.16%    1.31GB / 1.72GB   0B / 0B     30
+eee16608eae8   postgres_db   16.68%    230.3MiB / 512MiB   44.98%    258MB / 1.12GB    0B / 0B     108
+--- END OF SAMPLE 86 ---
+2025-09-22 21:32:24
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.41%   218MiB / 512MiB     42.58%    1.33GB / 1.75GB   0B / 0B     31
+eee16608eae8   postgres_db   18.51%    191.3MiB / 512MiB   37.36%    261MB / 1.14GB    0B / 0B     87
+--- END OF SAMPLE 87 ---
+2025-09-22 21:32:35
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.25%   217.7MiB / 512MiB   42.53%    1.34GB / 1.77GB   0B / 0B     31
+eee16608eae8   postgres_db   19.55%    250MiB / 512MiB     48.82%    264MB / 1.16GB    0B / 0B     118
+--- END OF SAMPLE 88 ---
+2025-09-22 21:32:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      153.35%   248.7MiB / 512MiB   48.57%    1.37GB / 1.79GB   0B / 0B     31
+eee16608eae8   postgres_db   19.66%    249.5MiB / 512MiB   48.73%    267MB / 1.17GB    0B / 0B     118
+--- END OF SAMPLE 89 ---
+2025-09-22 21:32:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.52%   233.6MiB / 512MiB   45.62%    1.39GB / 1.82GB   0B / 0B     31
+eee16608eae8   postgres_db   18.94%    224.4MiB / 512MiB   43.82%    270MB / 1.19GB    0B / 0B     106
+--- END OF SAMPLE 90 ---
+2025-09-22 21:32:57
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.79%   248.9MiB / 512MiB   48.62%    1.41GB / 1.85GB   0B / 0B     31
+eee16608eae8   postgres_db   17.36%    254.2MiB / 512MiB   49.66%    273MB / 1.21GB    0B / 0B     117
+--- END OF SAMPLE 91 ---
+2025-09-22 21:33:08
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      172.15%   217.1MiB / 512MiB   42.39%    1.42GB / 1.87GB   0B / 0B     31
+eee16608eae8   postgres_db   17.06%    214.4MiB / 512MiB   41.88%    275MB / 1.22GB    0B / 0B     104
+--- END OF SAMPLE 92 ---
+2025-09-22 21:33:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.91%   248.2MiB / 512MiB   48.47%    1.44GB / 1.89GB   0B / 0B     31
+eee16608eae8   postgres_db   18.08%    214.4MiB / 512MiB   41.87%    279MB / 1.24GB    0B / 0B     94
+--- END OF SAMPLE 93 ---
+2025-09-22 21:33:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.68%   218MiB / 512MiB     42.59%    1.46GB / 1.92GB   0B / 0B     31
+eee16608eae8   postgres_db   19.67%    202.3MiB / 512MiB   39.51%    282MB / 1.26GB    0B / 0B     93
+--- END OF SAMPLE 94 ---
+2025-09-22 21:33:30
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.46%   248.7MiB / 512MiB   48.56%    1.48GB / 1.94GB   0B / 0B     31
+eee16608eae8   postgres_db   17.96%    236.2MiB / 512MiB   46.13%    284MB / 1.27GB    0B / 0B     107
+--- END OF SAMPLE 95 ---
+2025-09-22 21:33:41
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.82%   233MiB / 512MiB     45.51%    1.49GB / 1.97GB   0B / 0B     31
+eee16608eae8   postgres_db   19.63%    185.9MiB / 512MiB   36.32%    286MB / 1.29GB    0B / 0B     86
+--- END OF SAMPLE 96 ---
+2025-09-22 21:33:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.52%   248.3MiB / 512MiB   48.50%    1.51GB / 1.99GB   0B / 0B     31
+eee16608eae8   postgres_db   16.90%    257.3MiB / 512MiB   50.26%    290MB / 1.31GB    0B / 0B     118
+--- END OF SAMPLE 97 ---
+2025-09-22 21:33:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.36%   220.1MiB / 512MiB   42.99%    1.53GB / 2.01GB   0B / 0B     31
+eee16608eae8   postgres_db   18.84%    265.6MiB / 512MiB   51.87%    293MB / 1.33GB    0B / 0B     125
+--- END OF SAMPLE 98 ---
+2025-09-22 21:34:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.26%   250.4MiB / 512MiB   48.90%    1.55GB / 2.05GB   0B / 0B     31
+eee16608eae8   postgres_db   18.07%    251.4MiB / 512MiB   49.11%    295MB / 1.34GB    0B / 0B     118
+--- END OF SAMPLE 99 ---
+2025-09-22 21:34:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.18%   232.5MiB / 512MiB   45.40%    1.57GB / 2.07GB   0B / 0B     31
+eee16608eae8   postgres_db   20.86%    214.8MiB / 512MiB   41.95%    298MB / 1.36GB    0B / 0B     97
+--- END OF SAMPLE 100 ---
+2025-09-22 21:34:21
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.97%   249.1MiB / 512MiB   48.64%    1.59GB / 2.1GB   0B / 0B     31
+eee16608eae8   postgres_db   17.20%    242.3MiB / 512MiB   47.33%    301MB / 1.38GB   0B / 0B     115
+--- END OF SAMPLE 101 ---
+2025-09-22 21:34:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.60%   203.4MiB / 512MiB   39.72%    1.61GB / 2.13GB   0B / 0B     26
+eee16608eae8   postgres_db   18.21%    218.8MiB / 512MiB   42.73%    305MB / 1.4GB     0B / 0B     97
+--- END OF SAMPLE 102 ---
+2025-09-22 21:34:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.03%   250.2MiB / 512MiB   48.86%    1.63GB / 2.15GB   0B / 0B     31
+eee16608eae8   postgres_db   17.26%    190.3MiB / 512MiB   37.17%    308MB / 1.42GB    0B / 0B     86
+--- END OF SAMPLE 103 ---
+2025-09-22 21:34:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      176.62%   200.4MiB / 512MiB   39.14%    1.65GB / 2.18GB   0B / 0B     31
+eee16608eae8   postgres_db   19.82%    180.6MiB / 512MiB   35.27%    310MB / 1.43GB    0B / 0B     74
+--- END OF SAMPLE 104 ---
+2025-09-22 21:34:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.28%   217.7MiB / 512MiB   42.52%    1.67GB / 2.21GB   0B / 0B     31
+eee16608eae8   postgres_db   15.81%    183.4MiB / 512MiB   35.83%    313MB / 1.45GB    0B / 0B     81
+--- END OF SAMPLE 105 ---
+2025-09-22 21:35:02
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.52%   220.1MiB / 512MiB   43.00%    1.69GB / 2.23GB   0B / 0B     31
+eee16608eae8   postgres_db   20.32%    204.2MiB / 512MiB   39.88%    316MB / 1.47GB    0B / 0B     97
+--- END OF SAMPLE 106 ---
+2025-09-22 21:35:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.76%   248.4MiB / 512MiB   48.51%    1.71GB / 2.26GB   0B / 0B     31
+eee16608eae8   postgres_db   19.31%    238.5MiB / 512MiB   46.59%    319MB / 1.48GB    0B / 0B     113
+--- END OF SAMPLE 107 ---
+2025-09-22 21:35:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.36%   235.2MiB / 512MiB   45.94%    1.73GB / 2.28GB   0B / 0B     31
+eee16608eae8   postgres_db   20.51%    224.8MiB / 512MiB   43.90%    323MB / 1.51GB    0B / 0B     105
+--- END OF SAMPLE 108 ---
+2025-09-22 21:35:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.96%   232.2MiB / 512MiB   45.36%    1.75GB / 2.31GB   0B / 0B     31
+eee16608eae8   postgres_db   19.56%    214.7MiB / 512MiB   41.93%    325MB / 1.52GB    0B / 0B     96
+--- END OF SAMPLE 109 ---
+2025-09-22 21:35:35
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.20%   230.4MiB / 512MiB   45.00%    1.77GB / 2.34GB   0B / 0B     31
+eee16608eae8   postgres_db   16.74%    249.6MiB / 512MiB   48.76%    328MB / 1.54GB    0B / 0B     114
+--- END OF SAMPLE 110 ---
+2025-09-22 21:35:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.26%   217.8MiB / 512MiB   42.54%    1.79GB / 2.36GB   0B / 0B     31
+eee16608eae8   postgres_db   20.56%    256.2MiB / 512MiB   50.05%    331MB / 1.56GB    0B / 0B     122
+--- END OF SAMPLE 111 ---
+2025-09-22 21:35:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.24%   249.2MiB / 512MiB   48.66%    1.8GB / 2.38GB   0B / 0B     31
+eee16608eae8   postgres_db   18.07%    240.1MiB / 512MiB   46.88%    333MB / 1.57GB   0B / 0B     109
+--- END OF SAMPLE 112 ---
+2025-09-22 21:36:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.57%   234.1MiB / 512MiB   45.72%    1.83GB / 2.41GB   0B / 0B     30
+eee16608eae8   postgres_db   17.81%    211.9MiB / 512MiB   41.39%    336MB / 1.59GB    0B / 0B     103
+--- END OF SAMPLE 113 ---
+2025-09-22 21:36:08
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.40%   232MiB / 512MiB     45.32%    1.84GB / 2.43GB   0B / 0B     31
+eee16608eae8   postgres_db   16.60%    237.8MiB / 512MiB   46.44%    339MB / 1.61GB    0B / 0B     112
+--- END OF SAMPLE 114 ---
+2025-09-22 21:36:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.51%   234.3MiB / 512MiB   45.77%    1.87GB / 2.46GB   0B / 0B     31
+eee16608eae8   postgres_db   18.56%    236.2MiB / 512MiB   46.14%    342MB / 1.62GB    0B / 0B     113
+--- END OF SAMPLE 115 ---
+2025-09-22 21:36:26
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.41%   222.6MiB / 512MiB   43.48%    1.89GB / 2.49GB   0B / 0B     31
+eee16608eae8   postgres_db   18.29%    256.9MiB / 512MiB   50.17%    345MB / 1.64GB    0B / 0B     119
+--- END OF SAMPLE 116 ---
+2025-09-22 21:36:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.14%   231.1MiB / 512MiB   45.13%    1.91GB / 2.52GB   0B / 0B     31
+eee16608eae8   postgres_db   20.11%    212.1MiB / 512MiB   41.42%    347MB / 1.66GB    0B / 0B     98
+--- END OF SAMPLE 117 ---
+2025-09-22 21:36:41
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.76%   200.3MiB / 512MiB   39.13%    1.93GB / 2.54GB   0B / 0B     26
+eee16608eae8   postgres_db   17.99%    222.8MiB / 512MiB   43.52%    351MB / 1.68GB    0B / 0B     107
+--- END OF SAMPLE 118 ---
+2025-09-22 21:36:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.91%   232MiB / 512MiB     45.32%    1.95GB / 2.57GB   0B / 0B     31
+eee16608eae8   postgres_db   19.06%    258.7MiB / 512MiB   50.54%    354MB / 1.7GB     0B / 0B     122
+--- END OF SAMPLE 119 ---
+2025-09-22 21:36:59
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.37%   249.6MiB / 512MiB   48.75%    1.97GB / 2.6GB   0B / 0B     31
+eee16608eae8   postgres_db   17.58%    259.5MiB / 512MiB   50.69%    357MB / 1.72GB   0B / 0B     120
+--- END OF SAMPLE 120 ---
+2025-09-22 21:37:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.32%   248MiB / 512MiB     48.44%    1.99GB / 2.63GB   0B / 0B     31
+eee16608eae8   postgres_db   18.09%    256.2MiB / 512MiB   50.05%    360MB / 1.74GB    0B / 0B     119
+--- END OF SAMPLE 121 ---
+2025-09-22 21:37:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.89%   249.2MiB / 512MiB   48.67%    2.01GB / 2.66GB   0B / 0B     31
+eee16608eae8   postgres_db   16.40%    254.8MiB / 512MiB   49.76%    363MB / 1.75GB    0B / 0B     117
+--- END OF SAMPLE 122 ---
+2025-09-22 21:37:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.03%   198.8MiB / 512MiB   38.83%    2.03GB / 2.68GB   0B / 0B     26
+eee16608eae8   postgres_db   20.06%    235.9MiB / 512MiB   46.07%    366MB / 1.77GB    0B / 0B     113
+--- END OF SAMPLE 123 ---
+2025-09-22 21:37:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.21%   232.9MiB / 512MiB   45.50%    2.05GB / 2.71GB   0B / 0B     31
+eee16608eae8   postgres_db   15.63%    222.6MiB / 512MiB   43.47%    369MB / 1.79GB    0B / 0B     104
+--- END OF SAMPLE 124 ---
+2025-09-22 21:37:40
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.46%   219.4MiB / 512MiB   42.86%    2.07GB / 2.73GB   0B / 0B     31
+eee16608eae8   postgres_db   19.65%    253.9MiB / 512MiB   49.60%    372MB / 1.81GB    0B / 0B     118
+--- END OF SAMPLE 125 ---
+2025-09-22 21:37:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      176.65%   204.4MiB / 512MiB   39.93%    2.09GB / 2.77GB   0B / 0B     31
+eee16608eae8   postgres_db   19.44%    161MiB / 512MiB     31.45%    374MB / 1.83GB    0B / 0B     74
+--- END OF SAMPLE 126 ---
+2025-09-22 21:37:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.05%   249MiB / 512MiB     48.62%    2.11GB / 2.79GB   0B / 0B     31
+eee16608eae8   postgres_db   17.97%    255.4MiB / 512MiB   49.87%    377MB / 1.85GB    0B / 0B     118
+--- END OF SAMPLE 127 ---
+2025-09-22 21:38:05
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      174.92%   201.3MiB / 512MiB   39.31%    2.13GB / 2.82GB   0B / 0B     31
+eee16608eae8   postgres_db   17.46%    227.8MiB / 512MiB   44.49%    380MB / 1.86GB    0B / 0B     105
+--- END OF SAMPLE 128 ---
+2025-09-22 21:38:13
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.77%   215.9MiB / 512MiB   42.16%    2.14GB / 2.83GB   0B / 0B     31
+eee16608eae8   postgres_db   18.19%    231.8MiB / 512MiB   45.28%    382MB / 1.88GB    0B / 0B     110
+--- END OF SAMPLE 129 ---
+2025-09-22 21:38:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      172.90%   202.9MiB / 512MiB   39.63%    2.17GB / 2.86GB   0B / 0B     31
+eee16608eae8   postgres_db   16.92%    165.9MiB / 512MiB   32.39%    385MB / 1.89GB    0B / 0B     80
+--- END OF SAMPLE 130 ---
+2025-09-22 21:38:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.65%   233.8MiB / 512MiB   45.67%    2.19GB / 2.89GB   0B / 0B     31
+eee16608eae8   postgres_db   17.18%    258MiB / 512MiB     50.40%    388MB / 1.92GB    0B / 0B     120
+--- END OF SAMPLE 131 ---
+2025-09-22 21:38:38
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.25%   250MiB / 512MiB     48.82%    2.21GB / 2.92GB   0B / 0B     31
+eee16608eae8   postgres_db   18.24%    240.4MiB / 512MiB   46.96%    391MB / 1.93GB    0B / 0B     114
+--- END OF SAMPLE 132 ---
+2025-09-22 21:38:46
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.42%   250.2MiB / 512MiB   48.87%    2.23GB / 2.95GB   0B / 0B     31
+eee16608eae8   postgres_db   16.63%    250.4MiB / 512MiB   48.91%    394MB / 1.95GB    0B / 0B     115
+--- END OF SAMPLE 133 ---
+2025-09-22 21:38:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.92%   217.6MiB / 512MiB   42.50%    2.25GB / 2.98GB   0B / 0B     31
+eee16608eae8   postgres_db   17.91%    228.6MiB / 512MiB   44.64%    397MB / 1.97GB    0B / 0B     108
+--- END OF SAMPLE 134 ---
+2025-09-22 21:39:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.90%   238MiB / 512MiB     46.48%    2.27GB / 3.01GB   0B / 0B     30
+eee16608eae8   postgres_db   18.61%    217.6MiB / 512MiB   42.51%    400MB / 1.99GB    0B / 0B     96
+--- END OF SAMPLE 135 ---
+2025-09-22 21:39:11
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.12%   218.9MiB / 512MiB   42.76%    2.29GB / 3.03GB   0B / 0B     31
+eee16608eae8   postgres_db   18.71%    202.3MiB / 512MiB   39.51%    402MB / 2.01GB    0B / 0B     98
+--- END OF SAMPLE 136 ---
+2025-09-22 21:39:19
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.39%   231.4MiB / 512MiB   45.20%    2.32GB / 3.06GB   0B / 0B     31
+eee16608eae8   postgres_db   19.23%    216.9MiB / 512MiB   42.36%    405MB / 2.03GB    0B / 0B     97
+--- END OF SAMPLE 137 ---
+2025-09-22 21:39:26
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.50%   248.7MiB / 512MiB   48.58%    2.34GB / 3.09GB   0B / 0B     31
+eee16608eae8   postgres_db   17.04%    251.9MiB / 512MiB   49.20%    408MB / 2.05GB    0B / 0B     119
+--- END OF SAMPLE 138 ---
+2025-09-22 21:39:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.70%   231.9MiB / 512MiB   45.30%    2.36GB / 3.12GB   0B / 0B     31
+eee16608eae8   postgres_db   17.98%    196.3MiB / 512MiB   38.34%    412MB / 2.07GB    0B / 0B     89
+--- END OF SAMPLE 139 ---
+2025-09-22 21:39:44
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.06%   248.9MiB / 512MiB   48.62%    2.38GB / 3.15GB   0B / 0B     31
+eee16608eae8   postgres_db   17.17%    252.2MiB / 512MiB   49.27%    414MB / 2.08GB    0B / 0B     116
+--- END OF SAMPLE 140 ---
+2025-09-22 21:39:52
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.87%   215.3MiB / 512MiB   42.05%    2.4GB / 3.18GB   0B / 0B     31
+eee16608eae8   postgres_db   18.59%    211.9MiB / 512MiB   41.39%    417MB / 2.1GB    0B / 0B     94
+--- END OF SAMPLE 141 ---
+2025-09-22 21:39:59
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.49%   249.3MiB / 512MiB   48.69%    2.42GB / 3.2GB   0B / 0B     31
+eee16608eae8   postgres_db   16.55%    251.5MiB / 512MiB   49.13%    420MB / 2.12GB   0B / 0B     115
+--- END OF SAMPLE 142 ---
+2025-09-22 21:40:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.95%   212.5MiB / 512MiB   41.50%    2.44GB / 3.23GB   0B / 0B     31
+eee16608eae8   postgres_db   21.43%    214.5MiB / 512MiB   41.90%    423MB / 2.14GB    0B / 0B     95
+--- END OF SAMPLE 143 ---
+2025-09-22 21:40:17
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.12%   223.2MiB / 512MiB   43.59%    2.46GB / 3.26GB   0B / 0B     27
+eee16608eae8   postgres_db   18.03%    199.2MiB / 512MiB   38.91%    426MB / 2.16GB    0B / 0B     90
+--- END OF SAMPLE 144 ---
+2025-09-22 21:40:25
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.83%   234.6MiB / 512MiB   45.82%    2.48GB / 3.28GB   0B / 0B     31
+eee16608eae8   postgres_db   18.42%    199MiB / 512MiB     38.87%    429MB / 2.18GB    0B / 0B     87
+--- END OF SAMPLE 145 ---
+2025-09-22 21:40:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.94%   250.2MiB / 512MiB   48.86%    2.5GB / 3.32GB   0B / 0B     31
+eee16608eae8   postgres_db   16.71%    241.6MiB / 512MiB   47.18%    431MB / 2.2GB    0B / 0B     110
+--- END OF SAMPLE 146 ---
+2025-09-22 21:40:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.20%   232.7MiB / 512MiB   45.45%    2.52GB / 3.34GB   0B / 0B     31
+eee16608eae8   postgres_db   17.55%    238.5MiB / 512MiB   46.59%    435MB / 2.22GB    0B / 0B     110
+--- END OF SAMPLE 147 ---
+2025-09-22 21:40:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.70%   248.5MiB / 512MiB   48.53%    2.54GB / 3.37GB   0B / 0B     31
+eee16608eae8   postgres_db   19.87%    208.7MiB / 512MiB   40.75%    438MB / 2.24GB    0B / 0B     92
+--- END OF SAMPLE 148 ---
+2025-09-22 21:40:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.69%   249.2MiB / 512MiB   48.67%    2.56GB / 3.4GB   0B / 0B     31
+eee16608eae8   postgres_db   16.10%    256.6MiB / 512MiB   50.11%    441MB / 2.26GB   0B / 0B     118
+--- END OF SAMPLE 149 ---
+2025-09-22 21:41:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.21%   216.4MiB / 512MiB   42.26%    2.59GB / 3.43GB   0B / 0B     26
+eee16608eae8   postgres_db   18.59%    252.1MiB / 512MiB   49.24%    443MB / 2.27GB    0B / 0B     118
+--- END OF SAMPLE 150 ---
+2025-09-22 21:41:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.07%   231.6MiB / 512MiB   45.24%    2.61GB / 3.45GB   0B / 0B     31
+eee16608eae8   postgres_db   18.44%    245.2MiB / 512MiB   47.90%    447MB / 2.3GB     0B / 0B     115
+--- END OF SAMPLE 151 ---
+2025-09-22 21:41:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.18%   236.7MiB / 512MiB   46.24%    2.63GB / 3.49GB   0B / 0B     31
+eee16608eae8   postgres_db   17.84%    235.2MiB / 512MiB   45.94%    449MB / 2.31GB    0B / 0B     110
+--- END OF SAMPLE 152 ---
+2025-09-22 21:41:31
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.46%   250MiB / 512MiB     48.84%    2.65GB / 3.52GB   0B / 0B     30
+eee16608eae8   postgres_db   19.24%    254MiB / 512MiB     49.60%    452MB / 2.33GB    0B / 0B     117
+--- END OF SAMPLE 153 ---
+2025-09-22 21:41:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.56%   231.4MiB / 512MiB   45.20%    2.68GB / 3.55GB   0B / 0B     31
+eee16608eae8   postgres_db   19.25%    210.8MiB / 512MiB   41.17%    455MB / 2.35GB    0B / 0B     93
+--- END OF SAMPLE 154 ---
+2025-09-22 21:41:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.41%   249.2MiB / 512MiB   48.68%    2.69GB / 3.57GB   0B / 0B     31
+eee16608eae8   postgres_db   17.50%    208.3MiB / 512MiB   40.69%    458MB / 2.37GB    0B / 0B     96
+--- END OF SAMPLE 155 ---
+2025-09-22 21:41:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.20%   218.4MiB / 512MiB   42.66%    2.72GB / 3.6GB   0B / 0B     31
+eee16608eae8   postgres_db   16.59%    184.7MiB / 512MiB   36.07%    461MB / 2.39GB   0B / 0B     83
+--- END OF SAMPLE 156 ---
+2025-09-22 21:42:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.34%   231.3MiB / 512MiB   45.18%    2.74GB / 3.63GB   0B / 0B     31
+eee16608eae8   postgres_db   20.24%    202MiB / 512MiB     39.45%    464MB / 2.41GB    0B / 0B     91
+--- END OF SAMPLE 157 ---
+2025-09-22 21:42:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.60%   248.4MiB / 512MiB   48.52%    2.76GB / 3.66GB   0B / 0B     31
+eee16608eae8   postgres_db   17.63%    246.1MiB / 512MiB   48.06%    467MB / 2.43GB    0B / 0B     116
+--- END OF SAMPLE 158 ---
+2025-09-22 21:42:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.79%   233.5MiB / 512MiB   45.60%    2.78GB / 3.69GB   0B / 0B     31
+eee16608eae8   postgres_db   19.34%    229MiB / 512MiB     44.72%    470MB / 2.45GB    0B / 0B     111
+--- END OF SAMPLE 159 ---
+2025-09-22 21:42:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.90%   249.6MiB / 512MiB   48.76%    2.8GB / 3.72GB   0B / 0B     31
+eee16608eae8   postgres_db   18.98%    256.8MiB / 512MiB   50.15%    473MB / 2.47GB   0B / 0B     119
+--- END OF SAMPLE 160 ---
+2025-09-22 21:42:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.35%   234.8MiB / 512MiB   45.85%    2.83GB / 3.75GB   0B / 0B     31
+eee16608eae8   postgres_db   16.45%    226.9MiB / 512MiB   44.32%    475MB / 2.49GB    0B / 0B     106
+--- END OF SAMPLE 161 ---
+2025-09-22 21:42:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.51%   253.1MiB / 512MiB   49.44%    2.84GB / 3.77GB   0B / 0B     30
+eee16608eae8   postgres_db   14.82%    207.2MiB / 512MiB   40.47%    478MB / 2.51GB    0B / 0B     94
+--- END OF SAMPLE 162 ---
+2025-09-22 21:42:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.85%   231.8MiB / 512MiB   45.28%    2.87GB / 3.8GB   0B / 0B     30
+eee16608eae8   postgres_db   18.06%    191.7MiB / 512MiB   37.43%    481MB / 2.53GB   0B / 0B     87
+--- END OF SAMPLE 163 ---
+2025-09-22 21:43:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.34%   250MiB / 512MiB     48.84%    2.89GB / 3.83GB   0B / 0B     31
+eee16608eae8   postgres_db   18.58%    220.8MiB / 512MiB   43.13%    484MB / 2.55GB    0B / 0B     102
+--- END OF SAMPLE 164 ---
+2025-09-22 21:43:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      170.25%   216.9MiB / 512MiB   42.37%    2.91GB / 3.86GB   0B / 0B     31
+eee16608eae8   postgres_db   20.71%    245.3MiB / 512MiB   47.91%    487MB / 2.57GB    0B / 0B     117
+--- END OF SAMPLE 165 ---
+2025-09-22 21:43:18
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.14%   234.1MiB / 512MiB   45.71%    2.93GB / 3.89GB   0B / 0B     31
+eee16608eae8   postgres_db   17.20%    255.7MiB / 512MiB   49.94%    491MB / 2.59GB    0B / 0B     119
+--- END OF SAMPLE 166 ---
+2025-09-22 21:43:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.02%   248.3MiB / 512MiB   48.49%    2.96GB / 3.92GB   0B / 0B     31
+eee16608eae8   postgres_db   20.24%    240.7MiB / 512MiB   47.00%    493MB / 2.61GB    0B / 0B     115
+--- END OF SAMPLE 167 ---
+2025-09-22 21:43:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      152.64%   250.9MiB / 512MiB   49.00%    2.98GB / 3.96GB   0B / 0B     30
+eee16608eae8   postgres_db   17.86%    250.8MiB / 512MiB   48.98%    496MB / 2.63GB    0B / 0B     115
+--- END OF SAMPLE 168 ---
+2025-09-22 21:43:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.70%   249.7MiB / 512MiB   48.77%    3GB / 3.98GB     0B / 0B     31
+eee16608eae8   postgres_db   17.54%    246MiB / 512MiB     48.04%    499MB / 2.65GB   0B / 0B     113
+--- END OF SAMPLE 169 ---
+2025-09-22 21:43:51
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.29%   249.6MiB / 512MiB   48.75%    3.02GB / 4.01GB   0B / 0B     30
+eee16608eae8   postgres_db   18.57%    154.6MiB / 512MiB   30.20%    502MB / 2.67GB    0B / 0B     70
+--- END OF SAMPLE 170 ---
+2025-09-22 21:44:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.47%   250MiB / 512MiB     48.83%    3.04GB / 4.04GB   0B / 0B     31
+eee16608eae8   postgres_db   17.65%    211.4MiB / 512MiB   41.30%    505MB / 2.69GB    0B / 0B     93
+--- END OF SAMPLE 171 ---
+2025-09-22 21:44:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.61%   202.1MiB / 512MiB   39.47%    3.07GB / 4.07GB   0B / 0B     31
+eee16608eae8   postgres_db   22.74%    209.7MiB / 512MiB   40.95%    508MB / 2.71GB    0B / 0B     101
+--- END OF SAMPLE 172 ---
+2025-09-22 21:44:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.48%   233.7MiB / 512MiB   45.65%    3.09GB / 4.1GB   0B / 0B     31
+eee16608eae8   postgres_db   17.95%    254.7MiB / 512MiB   49.75%    511MB / 2.73GB   0B / 0B     118
+--- END OF SAMPLE 173 ---
+2025-09-22 21:44:24
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.53%   221.8MiB / 512MiB   43.33%    3.11GB / 4.13GB   0B / 0B     27
+eee16608eae8   postgres_db   18.31%    211.8MiB / 512MiB   41.37%    513MB / 2.75GB    0B / 0B     104
+--- END OF SAMPLE 174 ---
+2025-09-22 21:44:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.64%   249.3MiB / 512MiB   48.69%    3.13GB / 4.16GB   0B / 0B     31
+eee16608eae8   postgres_db   18.02%    249.4MiB / 512MiB   48.71%    516MB / 2.77GB    0B / 0B     115
+--- END OF SAMPLE 175 ---
+2025-09-22 21:44:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.32%   248.6MiB / 512MiB   48.56%    3.16GB / 4.19GB   0B / 0B     31
+eee16608eae8   postgres_db   18.72%    231.9MiB / 512MiB   45.29%    519MB / 2.79GB    0B / 0B     112
+--- END OF SAMPLE 176 ---
+2025-09-22 21:44:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.46%   249.1MiB / 512MiB   48.66%    3.18GB / 4.22GB   0B / 0B     31
+eee16608eae8   postgres_db   16.32%    242.6MiB / 512MiB   47.38%    523MB / 2.81GB    0B / 0B     110
+--- END OF SAMPLE 177 ---
+2025-09-22 21:44:57
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.64%   248.9MiB / 512MiB   48.62%    3.2GB / 4.25GB   0B / 0B     31
+eee16608eae8   postgres_db   18.95%    247.4MiB / 512MiB   48.31%    525MB / 2.83GB   0B / 0B     114
+--- END OF SAMPLE 178 ---
+2025-09-22 21:45:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.62%   252.3MiB / 512MiB   49.28%    3.22GB / 4.28GB   0B / 0B     30
+eee16608eae8   postgres_db   15.16%    233.4MiB / 512MiB   45.59%    528MB / 2.85GB    0B / 0B     105
+--- END OF SAMPLE 179 ---
+2025-09-22 21:45:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.50%   249.7MiB / 512MiB   48.77%    3.24GB / 4.3GB   0B / 0B     31
+eee16608eae8   postgres_db   17.73%    249.4MiB / 512MiB   48.71%    530MB / 2.86GB   0B / 0B     115
+--- END OF SAMPLE 180 ---
+2025-09-22 21:45:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      170.70%   217.8MiB / 512MiB   42.53%    3.26GB / 4.33GB   0B / 0B     31
+eee16608eae8   postgres_db   17.93%    244.1MiB / 512MiB   47.68%    534MB / 2.89GB    0B / 0B     115
+--- END OF SAMPLE 181 ---
+2025-09-22 21:45:30
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.22%   231.5MiB / 512MiB   45.22%    3.29GB / 4.37GB   0B / 0B     31
+eee16608eae8   postgres_db   18.92%    211.1MiB / 512MiB   41.22%    537MB / 2.91GB    0B / 0B     93
+--- END OF SAMPLE 182 ---
+2025-09-22 21:45:40
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.35%   207MiB / 512MiB     40.42%    3.31GB / 4.4GB   0B / 0B     31
+eee16608eae8   postgres_db   18.75%    218MiB / 512MiB     42.57%    539MB / 2.93GB   0B / 0B     98
+--- END OF SAMPLE 183 ---
+2025-09-22 21:45:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.44%   232MiB / 512MiB     45.32%    3.33GB / 4.42GB   0B / 0B     31
+eee16608eae8   postgres_db   18.52%    200.6MiB / 512MiB   39.18%    543MB / 2.95GB    0B / 0B     92
+--- END OF SAMPLE 184 ---
+2025-09-22 21:45:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.86%   214.2MiB / 512MiB   41.83%    3.35GB / 4.45GB   0B / 0B     31
+eee16608eae8   postgres_db   17.97%    228.6MiB / 512MiB   44.65%    546MB / 2.97GB    0B / 0B     112
+--- END OF SAMPLE 185 ---
+2025-09-22 21:46:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.77%   216.5MiB / 512MiB   42.29%    3.37GB / 4.48GB   0B / 0B     31
+eee16608eae8   postgres_db   18.23%    246.6MiB / 512MiB   48.16%    549MB / 2.99GB    0B / 0B     117
+--- END OF SAMPLE 186 ---
+2025-09-22 21:46:13
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.71%   249.4MiB / 512MiB   48.71%    3.4GB / 4.52GB   0B / 0B     31
+eee16608eae8   postgres_db   17.76%    256.2MiB / 512MiB   50.03%    551MB / 3.01GB   0B / 0B     119
+--- END OF SAMPLE 187 ---
+2025-09-22 21:46:21
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.65%   249.7MiB / 512MiB   48.78%    3.42GB / 4.54GB   0B / 0B     31
+eee16608eae8   postgres_db   19.15%    217.3MiB / 512MiB   42.44%    555MB / 3.03GB    0B / 0B     97
+--- END OF SAMPLE 188 ---
+2025-09-22 21:46:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.96%   250.8MiB / 512MiB   48.99%    3.44GB / 4.58GB   0B / 0B     31
+eee16608eae8   postgres_db   16.64%    257.8MiB / 512MiB   50.35%    558MB / 3.05GB    0B / 0B     119
+--- END OF SAMPLE 189 ---
+2025-09-22 21:46:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.45%   235.1MiB / 512MiB   45.92%    3.47GB / 4.61GB   0B / 0B     31
+eee16608eae8   postgres_db   16.26%    208.9MiB / 512MiB   40.80%    560MB / 3.07GB    0B / 0B     102
+--- END OF SAMPLE 190 ---
+2025-09-22 21:46:46
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.97%   256.9MiB / 512MiB   50.17%    3.49GB / 4.64GB   0B / 0B     30
+eee16608eae8   postgres_db   15.96%    255.8MiB / 512MiB   49.96%    563MB / 3.09GB    0B / 0B     118
+--- END OF SAMPLE 191 ---
+2025-09-22 21:46:54
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.29%   232.1MiB / 512MiB   45.32%    3.51GB / 4.66GB   0B / 0B     30
+eee16608eae8   postgres_db   16.18%    209MiB / 512MiB     40.81%    565MB / 3.11GB    0B / 0B     100
+--- END OF SAMPLE 192 ---
+2025-09-22 21:47:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      154.26%   249.1MiB / 512MiB   48.65%    3.53GB / 4.69GB   0B / 0B     31
+eee16608eae8   postgres_db   14.59%    245.3MiB / 512MiB   47.91%    568MB / 3.13GB    0B / 0B     112
+--- END OF SAMPLE 193 ---
+2025-09-22 21:47:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.66%   248.9MiB / 512MiB   48.62%    3.55GB / 4.72GB   0B / 0B     31
+eee16608eae8   postgres_db   19.42%    235.5MiB / 512MiB   46.00%    571MB / 3.15GB    0B / 0B     115
+--- END OF SAMPLE 194 ---
+2025-09-22 21:47:19
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.58%   249.6MiB / 512MiB   48.75%    3.57GB / 4.75GB   0B / 0B     31
+eee16608eae8   postgres_db   16.12%    257.7MiB / 512MiB   50.33%    574MB / 3.17GB    0B / 0B     118
+--- END OF SAMPLE 195 ---
+2025-09-22 21:47:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      0.22%     247.5MiB / 512MiB   48.33%    3.59GB / 4.77GB   0B / 0B     31
+eee16608eae8   postgres_db   0.00%     225.6MiB / 512MiB   44.06%    576MB / 3.18GB    0B / 0B     104
+--- END OF SAMPLE 196 ---
+2025-09-22 21:47:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      150.51%   250.1MiB / 512MiB   48.85%    3.61GB / 4.79GB   0B / 0B     31
+eee16608eae8   postgres_db   17.31%    235.7MiB / 512MiB   46.03%    578MB / 3.2GB     0B / 0B     108
+--- END OF SAMPLE 197 ---
+2025-09-22 21:47:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.86%   236MiB / 512MiB     46.09%    3.63GB / 4.82GB   0B / 0B     31
+eee16608eae8   postgres_db   20.32%    205.5MiB / 512MiB   40.14%    580MB / 3.22GB    0B / 0B     103
+--- END OF SAMPLE 198 ---
+2025-09-22 21:47:52
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.52%   251.6MiB / 512MiB   49.15%    3.65GB / 4.86GB   0B / 0B     31
+eee16608eae8   postgres_db   17.67%    254.1MiB / 512MiB   49.63%    583MB / 3.24GB    0B / 0B     119
+--- END OF SAMPLE 199 ---
+2025-09-22 21:48:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.00%   249.2MiB / 512MiB   48.67%    3.67GB / 4.88GB   0B / 0B     31
+eee16608eae8   postgres_db   17.09%    247.4MiB / 512MiB   48.32%    586MB / 3.26GB    0B / 0B     117
+--- END OF SAMPLE 200 ---
+2025-09-22 21:48:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.36%   250.3MiB / 512MiB   48.89%    3.7GB / 4.92GB   0B / 0B     30
+eee16608eae8   postgres_db   16.05%    254.2MiB / 512MiB   49.66%    589MB / 3.28GB   0B / 0B     117
+--- END OF SAMPLE 201 ---
+2025-09-22 21:48:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.77%   248.9MiB / 512MiB   48.61%    3.72GB / 4.95GB   0B / 0B     31
+eee16608eae8   postgres_db   17.24%    238.6MiB / 512MiB   46.59%    592MB / 3.3GB     0B / 0B     112
+--- END OF SAMPLE 202 ---
+2025-09-22 21:48:25
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.83%   248.5MiB / 512MiB   48.54%    3.74GB / 4.97GB   0B / 0B     31
+eee16608eae8   postgres_db   16.35%    244.9MiB / 512MiB   47.83%    595MB / 3.32GB    0B / 0B     111
+--- END OF SAMPLE 203 ---
+2025-09-22 21:48:33
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.27%   251.1MiB / 512MiB   49.04%    3.76GB / 5GB     0B / 0B     31
+eee16608eae8   postgres_db   17.50%    259.2MiB / 512MiB   50.62%    598MB / 3.34GB   0B / 0B     120
+--- END OF SAMPLE 204 ---
+2025-09-22 21:48:40
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.53%   224.6MiB / 512MiB   43.86%    3.79GB / 5.04GB   0B / 0B     30
+eee16608eae8   postgres_db   17.70%    253.2MiB / 512MiB   49.46%    601MB / 3.36GB    0B / 0B     117
+--- END OF SAMPLE 205 ---
+2025-09-22 21:48:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.29%   250.1MiB / 512MiB   48.85%    3.81GB / 5.06GB   0B / 0B     31
+eee16608eae8   postgres_db   16.74%    219.9MiB / 512MiB   42.94%    604MB / 3.39GB    0B / 0B     98
+--- END OF SAMPLE 206 ---
+2025-09-22 21:48:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.63%   217MiB / 512MiB     42.37%    3.83GB / 5.1GB   0B / 0B     26
+eee16608eae8   postgres_db   18.37%    207.3MiB / 512MiB   40.48%    607MB / 3.41GB   0B / 0B     99
+--- END OF SAMPLE 207 ---
+2025-09-22 21:49:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.36%   227.6MiB / 512MiB   44.46%    3.85GB / 5.13GB   0B / 0B     31
+eee16608eae8   postgres_db   16.61%    236.1MiB / 512MiB   46.12%    609MB / 3.43GB    0B / 0B     111
+--- END OF SAMPLE 208 ---
+2025-09-22 21:49:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      173.40%   200.6MiB / 512MiB   39.18%    3.88GB / 5.16GB   0B / 0B     31
+eee16608eae8   postgres_db   18.84%    233.9MiB / 512MiB   45.68%    612MB / 3.45GB    0B / 0B     114
+--- END OF SAMPLE 209 ---
+2025-09-22 21:49:21
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.47%   234.2MiB / 512MiB   45.75%    3.9GB / 5.19GB   0B / 0B     31
+eee16608eae8   postgres_db   19.28%    213.7MiB / 512MiB   41.74%    615MB / 3.47GB   0B / 0B     96
+--- END OF SAMPLE 210 ---
+2025-09-22 21:49:31
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.06%   235.3MiB / 512MiB   45.95%    3.93GB / 5.22GB   0B / 0B     31
+eee16608eae8   postgres_db   18.86%    218.6MiB / 512MiB   42.69%    618MB / 3.49GB    0B / 0B     103
+--- END OF SAMPLE 211 ---
+2025-09-22 21:49:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.61%   218.2MiB / 512MiB   42.63%    3.95GB / 5.25GB   0B / 0B     31
+eee16608eae8   postgres_db   19.18%    242MiB / 512MiB     47.27%    621MB / 3.51GB    0B / 0B     116
+--- END OF SAMPLE 212 ---
+2025-09-22 21:49:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.18%   235.5MiB / 512MiB   46.00%    3.97GB / 5.28GB   0B / 0B     31
+eee16608eae8   postgres_db   17.54%    229.6MiB / 512MiB   44.85%    623MB / 3.53GB    0B / 0B     108
+--- END OF SAMPLE 213 ---
+2025-09-22 21:49:54
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.87%   233MiB / 512MiB     45.51%    3.99GB / 5.31GB   0B / 0B     31
+eee16608eae8   postgres_db   18.40%    182.8MiB / 512MiB   35.70%    626MB / 3.55GB    0B / 0B     80
+--- END OF SAMPLE 214 ---
+2025-09-22 21:50:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.87%   233.5MiB / 512MiB   45.60%    4.01GB / 5.34GB   0B / 0B     31
+eee16608eae8   postgres_db   17.13%    253.3MiB / 512MiB   49.47%    629MB / 3.57GB    0B / 0B     118
+--- END OF SAMPLE 215 ---
+2025-09-22 21:50:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      170.11%   226.6MiB / 512MiB   44.25%    4.04GB / 5.37GB   0B / 0B     30
+eee16608eae8   postgres_db   18.28%    217.9MiB / 512MiB   42.55%    632MB / 3.59GB    0B / 0B     104
+--- END OF SAMPLE 216 ---
+2025-09-22 21:50:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.84%   250.9MiB / 512MiB   49.00%    4.06GB / 5.41GB   0B / 0B     31
+eee16608eae8   postgres_db   15.95%    253.8MiB / 512MiB   49.57%    634MB / 3.61GB    0B / 0B     117
+--- END OF SAMPLE 217 ---
+2025-09-22 21:50:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.36%   217.6MiB / 512MiB   42.50%    4.09GB / 5.44GB   0B / 0B     31
+eee16608eae8   postgres_db   19.20%    177.4MiB / 512MiB   34.65%    637MB / 3.63GB    0B / 0B     85
+--- END OF SAMPLE 218 ---
+2025-09-22 21:50:38
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.76%   250.9MiB / 512MiB   49.00%    4.11GB / 5.47GB   0B / 0B     31
+eee16608eae8   postgres_db   16.02%    258.5MiB / 512MiB   50.49%    640MB / 3.66GB    0B / 0B     120
+--- END OF SAMPLE 219 ---
+2025-09-22 21:50:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.46%   241.2MiB / 512MiB   47.10%    4.13GB / 5.5GB   0B / 0B     30
+eee16608eae8   postgres_db   16.88%    223.9MiB / 512MiB   43.73%    643MB / 3.68GB   0B / 0B     109
+--- END OF SAMPLE 220 ---
+2025-09-22 21:50:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.68%   251.4MiB / 512MiB   49.11%    4.15GB / 5.53GB   0B / 0B     31
+eee16608eae8   postgres_db   17.63%    222.6MiB / 512MiB   43.48%    646MB / 3.7GB     0B / 0B     103
+--- END OF SAMPLE 221 ---
+2025-09-22 21:51:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.00%   251.3MiB / 512MiB   49.07%    4.18GB / 5.56GB   0B / 0B     31
+eee16608eae8   postgres_db   17.11%    223.9MiB / 512MiB   43.73%    649MB / 3.72GB    0B / 0B     108
+--- END OF SAMPLE 222 ---
+2025-09-22 21:51:11
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.10%   220.2MiB / 512MiB   43.01%    4.2GB / 5.6GB    0B / 0B     31
+eee16608eae8   postgres_db   19.10%    191.7MiB / 512MiB   37.44%    652MB / 3.74GB   0B / 0B     91
+--- END OF SAMPLE 223 ---
+2025-09-22 21:51:18
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.37%   234.1MiB / 512MiB   45.71%    4.23GB / 5.63GB   0B / 0B     31
+eee16608eae8   postgres_db   20.51%    215.1MiB / 512MiB   42.02%    655MB / 3.76GB    0B / 0B     97
+--- END OF SAMPLE 224 ---
+2025-09-22 21:51:26
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.78%   236.9MiB / 512MiB   46.27%    4.25GB / 5.66GB   0B / 0B     31
+eee16608eae8   postgres_db   18.09%    246.7MiB / 512MiB   48.18%    657MB / 3.79GB    0B / 0B     119
+--- END OF SAMPLE 225 ---
+2025-09-22 21:51:33
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.81%   234.3MiB / 512MiB   45.77%    4.27GB / 5.69GB   0B / 0B     31
+eee16608eae8   postgres_db   16.82%    259.5MiB / 512MiB   50.68%    661MB / 3.81GB    0B / 0B     123
+--- END OF SAMPLE 226 ---
+2025-09-22 21:51:44
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.99%   218.4MiB / 512MiB   42.66%    4.3GB / 5.72GB   0B / 0B     31
+eee16608eae8   postgres_db   18.34%    249.2MiB / 512MiB   48.68%    663MB / 3.83GB   0B / 0B     119
+--- END OF SAMPLE 227 ---
+2025-09-22 21:51:51
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.33%   250.9MiB / 512MiB   49.00%    4.32GB / 5.75GB   0B / 0B     31
+eee16608eae8   postgres_db   15.95%    246.8MiB / 512MiB   48.19%    666MB / 3.85GB    0B / 0B     113
+--- END OF SAMPLE 228 ---
+2025-09-22 21:51:59
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.62%   241MiB / 512MiB     47.07%    4.35GB / 5.79GB   0B / 0B     30
+eee16608eae8   postgres_db   18.79%    217.7MiB / 512MiB   42.53%    669MB / 3.87GB    0B / 0B     101
+--- END OF SAMPLE 229 ---
+2025-09-22 21:52:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.70%   251.8MiB / 512MiB   49.18%    4.37GB / 5.82GB   0B / 0B     31
+eee16608eae8   postgres_db   16.21%    253.8MiB / 512MiB   49.56%    671MB / 3.89GB    0B / 0B     117
+--- END OF SAMPLE 230 ---
+2025-09-22 21:52:17
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      106.00%   234.8MiB / 512MiB   45.87%    4.39GB / 5.85GB   0B / 0B     31
+eee16608eae8   postgres_db   19.92%    147.7MiB / 512MiB   28.85%    674MB / 3.92GB    0B / 0B     58
+--- END OF SAMPLE 231 ---
+2025-09-22 21:52:24
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.48%   249.3MiB / 512MiB   48.70%    4.42GB / 5.88GB   0B / 0B     31
+eee16608eae8   postgres_db   16.89%    236MiB / 512MiB     46.09%    677MB / 3.94GB    0B / 0B     107
+--- END OF SAMPLE 232 ---
+2025-09-22 21:52:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.48%   234.3MiB / 512MiB   45.76%    4.44GB / 5.91GB   0B / 0B     31
+eee16608eae8   postgres_db   19.62%    191.9MiB / 512MiB   37.49%    679MB / 3.96GB    0B / 0B     88
+--- END OF SAMPLE 233 ---
+2025-09-22 21:52:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.46%   252.2MiB / 512MiB   49.25%    4.46GB / 5.94GB   0B / 0B     31
+eee16608eae8   postgres_db   15.01%    253.1MiB / 512MiB   49.43%    683MB / 3.99GB    0B / 0B     116
+--- END OF SAMPLE 234 ---
+2025-09-22 21:52:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      172.38%   228.1MiB / 512MiB   44.55%    4.49GB / 5.98GB   0B / 0B     30
+eee16608eae8   postgres_db   17.58%    227.4MiB / 512MiB   44.42%    686MB / 4GB       0B / 0B     111
+--- END OF SAMPLE 235 ---
+2025-09-22 21:52:57
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.59%   225.5MiB / 512MiB   44.04%    4.51GB / 6.01GB   0B / 0B     31
+eee16608eae8   postgres_db   18.11%    195.9MiB / 512MiB   38.27%    689MB / 4.03GB    0B / 0B     89
+--- END OF SAMPLE 236 ---
+2025-09-22 21:53:05
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.59%   250.9MiB / 512MiB   49.00%    4.54GB / 6.05GB   0B / 0B     31
+eee16608eae8   postgres_db   18.70%    232.6MiB / 512MiB   45.44%    691MB / 4.05GB    0B / 0B     113
+--- END OF SAMPLE 237 ---
+2025-09-22 21:53:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.88%   233MiB / 512MiB     45.52%    4.56GB / 6.08GB   0B / 0B     31
+eee16608eae8   postgres_db   17.86%    211.2MiB / 512MiB   41.25%    694MB / 4.07GB    0B / 0B     96
+--- END OF SAMPLE 238 ---
+2025-09-22 21:53:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.53%   234.9MiB / 512MiB   45.87%    4.59GB / 6.11GB   0B / 0B     31
+eee16608eae8   postgres_db   20.90%    210.2MiB / 512MiB   41.05%    697MB / 4.09GB    0B / 0B     95
+--- END OF SAMPLE 239 ---
+2025-09-22 21:53:30
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      171.30%   217.9MiB / 512MiB   42.55%    4.61GB / 6.14GB   0B / 0B     31
+eee16608eae8   postgres_db   19.79%    249.6MiB / 512MiB   48.74%    700MB / 4.12GB    0B / 0B     119
+--- END OF SAMPLE 240 ---
+2025-09-22 21:53:38
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.81%   219.4MiB / 512MiB   42.85%    4.63GB / 6.17GB   0B / 0B     31
+eee16608eae8   postgres_db   18.79%    255.1MiB / 512MiB   49.82%    703MB / 4.14GB    0B / 0B     122
+--- END OF SAMPLE 241 ---
+2025-09-22 21:53:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.23%   251.5MiB / 512MiB   49.12%    4.66GB / 6.21GB   0B / 0B     31
+eee16608eae8   postgres_db   18.93%    249.8MiB / 512MiB   48.79%    706MB / 4.16GB    0B / 0B     121
+--- END OF SAMPLE 242 ---
+2025-09-22 21:53:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.26%   236MiB / 512MiB     46.09%    4.68GB / 6.24GB   0B / 0B     31
+eee16608eae8   postgres_db   18.52%    252.8MiB / 512MiB   49.38%    709MB / 4.18GB    0B / 0B     117
+--- END OF SAMPLE 243 ---
+2025-09-22 21:54:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.44%   251.5MiB / 512MiB   49.13%    4.71GB / 6.28GB   0B / 0B     31
+eee16608eae8   postgres_db   17.90%    245.9MiB / 512MiB   48.02%    711MB / 4.2GB     0B / 0B     113
+--- END OF SAMPLE 244 ---
+2025-09-22 21:54:11
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.62%   251.4MiB / 512MiB   49.11%    4.73GB / 6.31GB   0B / 0B     31
+eee16608eae8   postgres_db   19.06%    177.8MiB / 512MiB   34.72%    715MB / 4.23GB    0B / 0B     75
+--- END OF SAMPLE 245 ---
+2025-09-22 21:54:21
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.34%   251.9MiB / 512MiB   49.20%    4.76GB / 6.34GB   0B / 0B     31
+eee16608eae8   postgres_db   16.09%    257.5MiB / 512MiB   50.30%    717MB / 4.25GB    0B / 0B     119
+--- END OF SAMPLE 246 ---
+2025-09-22 21:54:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.43%   234.8MiB / 512MiB   45.85%    4.78GB / 6.37GB   0B / 0B     31
+eee16608eae8   postgres_db   19.79%    219.8MiB / 512MiB   42.93%    720MB / 4.27GB    0B / 0B     98
+--- END OF SAMPLE 247 ---
+2025-09-22 21:54:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.32%   229.4MiB / 512MiB   44.81%    4.81GB / 6.41GB   0B / 0B     31
+eee16608eae8   postgres_db   15.75%    256MiB / 512MiB     50.00%    723MB / 4.29GB    0B / 0B     118
+--- END OF SAMPLE 248 ---
+2025-09-22 21:54:44
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.27%   208.4MiB / 512MiB   40.70%    4.83GB / 6.43GB   0B / 0B     31
+eee16608eae8   postgres_db   15.74%    204.6MiB / 512MiB   39.96%    725MB / 4.31GB    0B / 0B     94
+--- END OF SAMPLE 249 ---
+2025-09-22 21:54:54
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.99%   226.9MiB / 512MiB   44.31%    4.85GB / 6.47GB   0B / 0B     31
+eee16608eae8   postgres_db   15.85%    246.8MiB / 512MiB   48.21%    728MB / 4.33GB    0B / 0B     113
+--- END OF SAMPLE 250 ---
+2025-09-22 21:55:02
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      176.73%   202MiB / 512MiB     39.45%    4.87GB / 6.5GB   0B / 0B     31
+eee16608eae8   postgres_db   19.91%    153.4MiB / 512MiB   29.96%    731MB / 4.36GB   0B / 0B     70
+--- END OF SAMPLE 251 ---
+2025-09-22 21:55:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.99%   258.1MiB / 512MiB   50.41%    4.9GB / 6.53GB   0B / 0B     30
+eee16608eae8   postgres_db   16.69%    239.1MiB / 512MiB   46.70%    734MB / 4.38GB   0B / 0B     113
+--- END OF SAMPLE 252 ---
+2025-09-22 21:55:17
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.28%   233.8MiB / 512MiB   45.66%    4.92GB / 6.56GB   0B / 0B     31
+eee16608eae8   postgres_db   18.80%    212MiB / 512MiB     41.40%    736MB / 4.4GB     0B / 0B     105
+--- END OF SAMPLE 253 ---
+2025-09-22 21:55:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.34%   234.5MiB / 512MiB   45.80%    4.95GB / 6.6GB   0B / 0B     31
+eee16608eae8   postgres_db   18.12%    206.1MiB / 512MiB   40.25%    739MB / 4.42GB   0B / 0B     94
+--- END OF SAMPLE 254 ---
+2025-09-22 21:55:35
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.46%   233.7MiB / 512MiB   45.64%    4.97GB / 6.62GB   0B / 0B     31
+eee16608eae8   postgres_db   18.52%    254.8MiB / 512MiB   49.77%    743MB / 4.45GB    0B / 0B     121
+--- END OF SAMPLE 255 ---
+2025-09-22 21:55:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.98%   251.9MiB / 512MiB   49.21%    5GB / 6.66GB     0B / 0B     31
+eee16608eae8   postgres_db   20.98%    258.9MiB / 512MiB   50.56%    745MB / 4.47GB   0B / 0B     122
+--- END OF SAMPLE 256 ---
+2025-09-22 21:55:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.82%   252.2MiB / 512MiB   49.26%    5.02GB / 6.7GB   0B / 0B     31
+eee16608eae8   postgres_db   17.43%    253.6MiB / 512MiB   49.53%    748MB / 4.49GB   0B / 0B     120
+--- END OF SAMPLE 257 ---
+2025-09-22 21:56:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.55%   252.5MiB / 512MiB   49.31%    5.05GB / 6.73GB   0B / 0B     31
+eee16608eae8   postgres_db   15.85%    253.4MiB / 512MiB   49.48%    751MB / 4.51GB    0B / 0B     117
+--- END OF SAMPLE 258 ---
+2025-09-22 21:56:08
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.31%   252.8MiB / 512MiB   49.37%    5.07GB / 6.76GB   0B / 0B     31
+eee16608eae8   postgres_db   18.30%    259MiB / 512MiB     50.59%    754MB / 4.54GB    0B / 0B     121
+--- END OF SAMPLE 259 ---
+2025-09-22 21:56:15
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.04%   252MiB / 512MiB     49.22%    5.09GB / 6.79GB   0B / 0B     31
+eee16608eae8   postgres_db   17.39%    224.7MiB / 512MiB   43.88%    757MB / 4.56GB    0B / 0B     105
+--- END OF SAMPLE 260 ---
+2025-09-22 21:56:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.28%   244.2MiB / 512MiB   47.69%    5.12GB / 6.83GB   0B / 0B     31
+eee16608eae8   postgres_db   18.41%    231.2MiB / 512MiB   45.15%    759MB / 4.58GB    0B / 0B     110
+--- END OF SAMPLE 261 ---
+2025-09-22 21:56:33
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.71%   234.6MiB / 512MiB   45.83%    5.14GB / 6.86GB   0B / 0B     31
+eee16608eae8   postgres_db   15.68%    225.3MiB / 512MiB   44.00%    762MB / 4.6GB     0B / 0B     105
+--- END OF SAMPLE 262 ---
+2025-09-22 21:56:41
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.12%   252.6MiB / 512MiB   49.34%    5.17GB / 6.89GB   0B / 0B     31
+eee16608eae8   postgres_db   18.42%    231.1MiB / 512MiB   45.14%    765MB / 4.62GB    0B / 0B     112
+--- END OF SAMPLE 263 ---
+2025-09-22 21:56:48
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.26%   235.6MiB / 512MiB   46.02%    5.19GB / 6.93GB   0B / 0B     31
+eee16608eae8   postgres_db   18.37%    207.4MiB / 512MiB   40.51%    768MB / 4.65GB    0B / 0B     95
+--- END OF SAMPLE 264 ---
+2025-09-22 21:56:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.02%   236.3MiB / 512MiB   46.16%    5.22GB / 6.96GB   0B / 0B     31
+eee16608eae8   postgres_db   17.74%    242.1MiB / 512MiB   47.28%    770MB / 4.67GB    0B / 0B     115
+--- END OF SAMPLE 265 ---
+2025-09-22 21:57:06
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      77.31%    249.4MiB / 512MiB   48.72%    5.24GB / 6.99GB   0B / 0B     31
+eee16608eae8   postgres_db   20.80%    220.4MiB / 512MiB   43.05%    773MB / 4.69GB    0B / 0B     100
+--- END OF SAMPLE 266 ---
+2025-09-22 21:57:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.75%   251.3MiB / 512MiB   49.08%    5.26GB / 7.02GB   0B / 0B     31
+eee16608eae8   postgres_db   17.07%    193.7MiB / 512MiB   37.83%    776MB / 4.72GB    0B / 0B     83
+--- END OF SAMPLE 267 ---
+2025-09-22 21:57:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.44%   236.8MiB / 512MiB   46.24%    5.28GB / 7.05GB   0B / 0B     31
+eee16608eae8   postgres_db   17.48%    253.7MiB / 512MiB   49.54%    779MB / 4.74GB    0B / 0B     118
+--- END OF SAMPLE 268 ---
+2025-09-22 21:57:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.36%   237.7MiB / 512MiB   46.42%    5.31GB / 7.09GB   0B / 0B     31
+eee16608eae8   postgres_db   14.78%    219.6MiB / 512MiB   42.89%    781MB / 4.76GB    0B / 0B     102
+--- END OF SAMPLE 269 ---
+2025-09-22 21:57:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.03%   237.1MiB / 512MiB   46.32%    5.33GB / 7.11GB   0B / 0B     30
+eee16608eae8   postgres_db   17.97%    220.1MiB / 512MiB   42.98%    784MB / 4.78GB    0B / 0B     104
+--- END OF SAMPLE 270 ---
+2025-09-22 21:57:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.78%   235.5MiB / 512MiB   46.01%    5.36GB / 7.15GB   0B / 0B     31
+eee16608eae8   postgres_db   15.83%    215MiB / 512MiB     42.00%    787MB / 4.8GB     0B / 0B     98
+--- END OF SAMPLE 271 ---
+2025-09-22 21:57:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.93%   250.7MiB / 512MiB   48.96%    5.38GB / 7.18GB   0B / 0B     31
+eee16608eae8   postgres_db   19.87%    238.3MiB / 512MiB   46.55%    789MB / 4.82GB    0B / 0B     114
+--- END OF SAMPLE 272 ---
+2025-09-22 21:58:02
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      164.38%   234.8MiB / 512MiB   45.87%    5.41GB / 7.22GB   0B / 0B     31
+eee16608eae8   postgres_db   14.75%    224.4MiB / 512MiB   43.84%    792MB / 4.85GB    0B / 0B     105
+--- END OF SAMPLE 273 ---
+2025-09-22 21:58:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.61%   251.9MiB / 512MiB   49.20%    5.43GB / 7.25GB   0B / 0B     31
+eee16608eae8   postgres_db   18.49%    262.2MiB / 512MiB   51.21%    795MB / 4.87GB    0B / 0B     124
+--- END OF SAMPLE 274 ---
+2025-09-22 21:58:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.55%   234.1MiB / 512MiB   45.71%    5.46GB / 7.28GB   0B / 0B     31
+eee16608eae8   postgres_db   19.47%    215.3MiB / 512MiB   42.04%    798MB / 4.89GB    0B / 0B     96
+--- END OF SAMPLE 275 ---
+2025-09-22 21:58:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.12%   251.8MiB / 512MiB   49.18%    5.48GB / 7.31GB   0B / 0B     31
+eee16608eae8   postgres_db   17.68%    254.9MiB / 512MiB   49.78%    801MB / 4.91GB    0B / 0B     118
+--- END OF SAMPLE 276 ---
+2025-09-22 21:58:35
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.42%   215.3MiB / 512MiB   42.05%    5.51GB / 7.35GB   0B / 0B     31
+eee16608eae8   postgres_db   19.63%    215.4MiB / 512MiB   42.07%    804MB / 4.94GB    0B / 0B     96
+--- END OF SAMPLE 277 ---
+2025-09-22 21:58:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.86%   251.9MiB / 512MiB   49.20%    5.53GB / 7.38GB   0B / 0B     31
+eee16608eae8   postgres_db   18.38%    256.4MiB / 512MiB   50.07%    806MB / 4.96GB    0B / 0B     119
+--- END OF SAMPLE 278 ---
+2025-09-22 21:58:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.96%   209.4MiB / 512MiB   40.90%    5.55GB / 7.41GB   0B / 0B     31
+eee16608eae8   postgres_db   20.44%    200.2MiB / 512MiB   39.11%    809MB / 4.98GB    0B / 0B     93
+--- END OF SAMPLE 279 ---
+2025-09-22 21:59:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.11%   251.7MiB / 512MiB   49.15%    5.58GB / 7.45GB   0B / 0B     31
+eee16608eae8   postgres_db   16.00%    254.1MiB / 512MiB   49.64%    812MB / 5GB       0B / 0B     117
+--- END OF SAMPLE 280 ---
+2025-09-22 21:59:08
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      182.47%   216MiB / 512MiB     42.19%    5.6GB / 7.48GB   0B / 0B     31
+eee16608eae8   postgres_db   20.50%    146.9MiB / 512MiB   28.69%    815MB / 5.03GB   0B / 0B     80
+--- END OF SAMPLE 281 ---
+2025-09-22 21:59:18
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.65%   252.3MiB / 512MiB   49.27%    5.63GB / 7.51GB   0B / 0B     31
+eee16608eae8   postgres_db   14.96%    254.6MiB / 512MiB   49.72%    818MB / 5.05GB    0B / 0B     117
+--- END OF SAMPLE 282 ---
+2025-09-22 21:59:26
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      185.20%   202.1MiB / 512MiB   39.48%    5.65GB / 7.54GB   0B / 0B     31
+eee16608eae8   postgres_db   20.69%    149.6MiB / 512MiB   29.23%    820MB / 5.07GB    0B / 0B     72
+--- END OF SAMPLE 283 ---
+2025-09-22 21:59:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.49%   251.6MiB / 512MiB   49.14%    5.67GB / 7.57GB   0B / 0B     31
+eee16608eae8   postgres_db   5.35%     234.7MiB / 512MiB   45.84%    823MB / 5.09GB    0B / 0B     106
+--- END OF SAMPLE 284 ---
+2025-09-22 21:59:41
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.81%   215MiB / 512MiB     41.99%    5.7GB / 7.6GB    0B / 0B     31
+eee16608eae8   postgres_db   20.39%    173.9MiB / 512MiB   33.96%    826MB / 5.11GB   0B / 0B     91
+--- END OF SAMPLE 285 ---
+2025-09-22 21:59:52
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.41%   251.9MiB / 512MiB   49.20%    5.72GB / 7.64GB   0B / 0B     31
+eee16608eae8   postgres_db   16.13%    259.4MiB / 512MiB   50.66%    828MB / 5.13GB    0B / 0B     120
+--- END OF SAMPLE 286 ---
+2025-09-22 21:59:59
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.61%   255.9MiB / 512MiB   49.98%    5.75GB / 7.67GB   0B / 0B     30
+eee16608eae8   postgres_db   20.31%    221.2MiB / 512MiB   43.20%    831MB / 5.16GB    0B / 0B     110
+--- END OF SAMPLE 287 ---
+2025-09-22 22:00:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.32%   252.3MiB / 512MiB   49.28%    5.77GB / 7.7GB   0B / 0B     31
+eee16608eae8   postgres_db   16.31%    261.4MiB / 512MiB   51.06%    834MB / 5.18GB   0B / 0B     121
+--- END OF SAMPLE 288 ---
+2025-09-22 22:00:14
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      179.07%   197.6MiB / 512MiB   38.60%    5.79GB / 7.73GB   0B / 0B     31
+eee16608eae8   postgres_db   22.24%    239.8MiB / 512MiB   46.83%    837MB / 5.2GB     0B / 0B     121
+--- END OF SAMPLE 289 ---
+2025-09-22 22:00:25
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.33%   250.5MiB / 512MiB   48.92%    5.82GB / 7.77GB   0B / 0B     31
+eee16608eae8   postgres_db   14.93%    226.6MiB / 512MiB   44.26%    839MB / 5.22GB    0B / 0B     105
+--- END OF SAMPLE 290 ---
+2025-09-22 22:00:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.38%   235.3MiB / 512MiB   45.96%    5.84GB / 7.8GB   0B / 0B     31
+eee16608eae8   postgres_db   19.96%    208.1MiB / 512MiB   40.64%    842MB / 5.25GB   0B / 0B     103
+--- END OF SAMPLE 291 ---
+2025-09-22 22:00:40
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.83%   252.2MiB / 512MiB   49.26%    5.87GB / 7.84GB   0B / 0B     31
+eee16608eae8   postgres_db   17.33%    254.7MiB / 512MiB   49.75%    845MB / 5.27GB    0B / 0B     119
+--- END OF SAMPLE 292 ---
+2025-09-22 22:00:47
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.04%   235.5MiB / 512MiB   45.99%    5.89GB / 7.87GB   0B / 0B     31
+eee16608eae8   postgres_db   19.35%    232.6MiB / 512MiB   45.44%    848MB / 5.29GB    0B / 0B     111
+--- END OF SAMPLE 293 ---
+2025-09-22 22:00:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.99%   252.4MiB / 512MiB   49.30%    5.92GB / 7.9GB   0B / 0B     31
+eee16608eae8   postgres_db   15.61%    259.8MiB / 512MiB   50.74%    851MB / 5.32GB   0B / 0B     120
+--- END OF SAMPLE 294 ---
+2025-09-22 22:01:05
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.98%   250.5MiB / 512MiB   48.93%    5.94GB / 7.94GB   0B / 0B     31
+eee16608eae8   postgres_db   18.56%    250.9MiB / 512MiB   49.01%    853MB / 5.34GB    0B / 0B     120
+--- END OF SAMPLE 295 ---
+2025-09-22 22:01:13
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.31%   226.4MiB / 512MiB   44.23%    5.97GB / 7.97GB   0B / 0B     31
+eee16608eae8   postgres_db   16.92%    240.5MiB / 512MiB   46.98%    857MB / 5.36GB    0B / 0B     115
+--- END OF SAMPLE 296 ---
+2025-09-22 22:01:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.41%   251.8MiB / 512MiB   49.19%    5.99GB / 8.01GB   0B / 0B     31
+eee16608eae8   postgres_db   17.62%    255.8MiB / 512MiB   49.95%    859MB / 5.38GB    0B / 0B     119
+--- END OF SAMPLE 297 ---
+2025-09-22 22:01:31
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.19%   235.1MiB / 512MiB   45.92%    6.02GB / 8.04GB   0B / 0B     31
+eee16608eae8   postgres_db   18.23%    208.8MiB / 512MiB   40.78%    862MB / 5.41GB    0B / 0B     99
+--- END OF SAMPLE 298 ---
+2025-09-22 22:01:38
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.66%   250.9MiB / 512MiB   49.01%    6.04GB / 8.07GB   0B / 0B     31
+eee16608eae8   postgres_db   16.86%    254.9MiB / 512MiB   49.78%    865MB / 5.43GB    0B / 0B     118
+--- END OF SAMPLE 299 ---
+2025-09-22 22:01:46
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.70%   231.8MiB / 512MiB   45.27%    6.07GB / 8.11GB   0B / 0B     31
+eee16608eae8   postgres_db   17.85%    237.5MiB / 512MiB   46.38%    868MB / 5.45GB    0B / 0B     114
+--- END OF SAMPLE 300 ---
+2025-09-22 22:01:53
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.81%   251.1MiB / 512MiB   49.05%    6.09GB / 8.14GB   0B / 0B     31
+eee16608eae8   postgres_db   15.96%    254.6MiB / 512MiB   49.72%    871MB / 5.48GB    0B / 0B     117
+--- END OF SAMPLE 301 ---
+2025-09-22 22:02:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.33%   213.7MiB / 512MiB   41.73%    6.11GB / 8.16GB   0B / 0B     31
+eee16608eae8   postgres_db   16.28%    206.7MiB / 512MiB   40.37%    873MB / 5.5GB     0B / 0B     100
+--- END OF SAMPLE 302 ---
+2025-09-22 22:02:11
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.04%   251.9MiB / 512MiB   49.20%    6.14GB / 8.2GB   0B / 0B     31
+eee16608eae8   postgres_db   17.12%    216.5MiB / 512MiB   42.29%    876MB / 5.52GB   0B / 0B     96
+--- END OF SAMPLE 303 ---
+2025-09-22 22:02:19
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      170.64%   243.9MiB / 512MiB   47.64%    6.16GB / 8.23GB   0B / 0B     30
+eee16608eae8   postgres_db   20.40%    249.9MiB / 512MiB   48.81%    879MB / 5.54GB    0B / 0B     120
+--- END OF SAMPLE 304 ---
+2025-09-22 22:02:26
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      165.50%   234.6MiB / 512MiB   45.82%    6.19GB / 8.27GB   0B / 0B     31
+eee16608eae8   postgres_db   16.75%    254.6MiB / 512MiB   49.73%    882MB / 5.57GB    0B / 0B     121
+--- END OF SAMPLE 305 ---
+2025-09-22 22:02:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.81%   217.5MiB / 512MiB   42.47%    6.21GB / 8.3GB   0B / 0B     31
+eee16608eae8   postgres_db   19.74%    247.1MiB / 512MiB   48.25%    885MB / 5.59GB   0B / 0B     119
+--- END OF SAMPLE 306 ---
+2025-09-22 22:02:44
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.12%   251.8MiB / 512MiB   49.19%    6.24GB / 8.34GB   0B / 0B     31
+eee16608eae8   postgres_db   15.75%    236.6MiB / 512MiB   46.20%    887MB / 5.61GB    0B / 0B     111
+--- END OF SAMPLE 307 ---
+2025-09-22 22:02:52
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.52%   234.6MiB / 512MiB   45.82%    6.26GB / 8.37GB   0B / 0B     31
+eee16608eae8   postgres_db   19.44%    256.1MiB / 512MiB   50.02%    890MB / 5.64GB    0B / 0B     120
+--- END OF SAMPLE 308 ---
+2025-09-22 22:02:59
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.20%   252MiB / 512MiB     49.21%    6.29GB / 8.41GB   0B / 0B     31
+eee16608eae8   postgres_db   18.95%    260MiB / 512MiB     50.78%    893MB / 5.66GB    0B / 0B     120
+--- END OF SAMPLE 309 ---
+2025-09-22 22:03:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.63%   251.3MiB / 512MiB   49.08%    6.31GB / 8.43GB   0B / 0B     31
+eee16608eae8   postgres_db   17.76%    262.3MiB / 512MiB   51.22%    896MB / 5.68GB    0B / 0B     123
+--- END OF SAMPLE 310 ---
+2025-09-22 22:03:17
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.07%   253MiB / 512MiB     49.42%    6.34GB / 8.48GB   0B / 0B     31
+eee16608eae8   postgres_db   14.70%    260.4MiB / 512MiB   50.86%    899MB / 5.71GB    0B / 0B     120
+--- END OF SAMPLE 311 ---
+2025-09-22 22:03:25
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      155.77%   251.2MiB / 512MiB   49.06%    6.36GB / 8.5GB   0B / 0B     31
+eee16608eae8   postgres_db   18.35%    215.2MiB / 512MiB   42.03%    902MB / 5.73GB   0B / 0B     99
+--- END OF SAMPLE 312 ---
+2025-09-22 22:03:32
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.74%   254.4MiB / 512MiB   49.68%    6.39GB / 8.54GB   0B / 0B     31
+eee16608eae8   postgres_db   15.98%    256.2MiB / 512MiB   50.05%    904MB / 5.75GB    0B / 0B     118
+--- END OF SAMPLE 313 ---
+2025-09-22 22:03:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.89%   258.6MiB / 512MiB   50.51%    6.42GB / 8.58GB   0B / 0B     30
+eee16608eae8   postgres_db   16.47%    256.4MiB / 512MiB   50.08%    907MB / 5.77GB    0B / 0B     119
+--- END OF SAMPLE 314 ---
+2025-09-22 22:03:50
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      168.71%   236.9MiB / 512MiB   46.28%    6.44GB / 8.61GB   0B / 0B     31
+eee16608eae8   postgres_db   17.48%    251MiB / 512MiB     49.02%    911MB / 5.8GB     0B / 0B     115
+--- END OF SAMPLE 315 ---
+2025-09-22 22:03:58
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.18%   250MiB / 512MiB     48.83%    6.47GB / 8.64GB   0B / 0B     31
+eee16608eae8   postgres_db   17.74%    246.8MiB / 512MiB   48.20%    913MB / 5.82GB    0B / 0B     114
+--- END OF SAMPLE 316 ---
+2025-09-22 22:04:05
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.39%   213.9MiB / 512MiB   41.77%    6.5GB / 8.68GB   0B / 0B     26
+eee16608eae8   postgres_db   18.06%    234.9MiB / 512MiB   45.87%    916MB / 5.85GB   0B / 0B     111
+--- END OF SAMPLE 317 ---
+2025-09-22 22:04:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.49%   251MiB / 512MiB     49.03%    6.52GB / 8.71GB   0B / 0B     31
+eee16608eae8   postgres_db   16.25%    258.3MiB / 512MiB   50.44%    919MB / 5.87GB    0B / 0B     120
+--- END OF SAMPLE 318 ---
+2025-09-22 22:04:23
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.03%   251.5MiB / 512MiB   49.11%    6.54GB / 8.74GB   0B / 0B     31
+eee16608eae8   postgres_db   15.03%    198.6MiB / 512MiB   38.79%    922MB / 5.89GB    0B / 0B     87
+--- END OF SAMPLE 319 ---
+2025-09-22 22:04:31
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.74%   251.3MiB / 512MiB   49.09%    6.57GB / 8.77GB   0B / 0B     31
+eee16608eae8   postgres_db   16.80%    249.5MiB / 512MiB   48.73%    924MB / 5.91GB    0B / 0B     115
+--- END OF SAMPLE 320 ---
+2025-09-22 22:04:39
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.49%   235.1MiB / 512MiB   45.92%    6.59GB / 8.81GB   0B / 0B     31
+eee16608eae8   postgres_db   18.20%    232.4MiB / 512MiB   45.38%    927MB / 5.93GB    0B / 0B     112
+--- END OF SAMPLE 321 ---
+2025-09-22 22:04:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.94%   251.4MiB / 512MiB   49.10%    6.61GB / 8.84GB   0B / 0B     31
+eee16608eae8   postgres_db   15.20%    257.8MiB / 512MiB   50.35%    930MB / 5.96GB    0B / 0B     119
+--- END OF SAMPLE 322 ---
+2025-09-22 22:04:56
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.88%   234.6MiB / 512MiB   45.82%    6.64GB / 8.87GB   0B / 0B     31
+eee16608eae8   postgres_db   20.53%    176.5MiB / 512MiB   34.48%    933MB / 5.98GB    0B / 0B     79
+--- END OF SAMPLE 323 ---
+2025-09-22 22:05:04
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.82%   251.5MiB / 512MiB   49.11%    6.66GB / 8.9GB   0B / 0B     31
+eee16608eae8   postgres_db   15.81%    258.4MiB / 512MiB   50.47%    936MB / 6GB      0B / 0B     119
+--- END OF SAMPLE 324 ---
+2025-09-22 22:05:12
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.95%   233.6MiB / 512MiB   45.63%    6.69GB / 8.94GB   0B / 0B     31
+eee16608eae8   postgres_db   18.82%    215.3MiB / 512MiB   42.06%    938MB / 6.02GB    0B / 0B     96
+--- END OF SAMPLE 325 ---
+2025-09-22 22:05:22
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      167.54%   213MiB / 512MiB     41.61%    6.72GB / 8.98GB   0B / 0B     31
+eee16608eae8   postgres_db   17.80%    213.5MiB / 512MiB   41.70%    941MB / 6.05GB    0B / 0B     94
+--- END OF SAMPLE 326 ---
+2025-09-22 22:05:29
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.27%   257.8MiB / 512MiB   50.36%    6.74GB / 9.01GB   0B / 0B     30
+eee16608eae8   postgres_db   17.02%    251.4MiB / 512MiB   49.10%    944MB / 6.07GB    0B / 0B     117
+--- END OF SAMPLE 327 ---
+2025-09-22 22:05:37
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.72%   251.6MiB / 512MiB   49.14%    6.76GB / 9.04GB   0B / 0B     31
+eee16608eae8   postgres_db   16.75%    242.1MiB / 512MiB   47.29%    947MB / 6.09GB    0B / 0B     113
+--- END OF SAMPLE 328 ---
+2025-09-22 22:05:45
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.67%   250.5MiB / 512MiB   48.93%    6.79GB / 9.07GB   0B / 0B     31
+eee16608eae8   postgres_db   19.28%    226.2MiB / 512MiB   44.17%    949MB / 6.11GB    0B / 0B     109
+--- END OF SAMPLE 329 ---
+2025-09-22 22:05:55
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      156.71%   251.9MiB / 512MiB   49.21%    6.81GB / 9.1GB   0B / 0B     30
+eee16608eae8   postgres_db   16.77%    260MiB / 512MiB     50.78%    952MB / 6.13GB   0B / 0B     121
+--- END OF SAMPLE 330 ---
+2025-09-22 22:06:03
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.09%   250.7MiB / 512MiB   48.97%    6.83GB / 9.14GB   0B / 0B     31
+eee16608eae8   postgres_db   18.87%    244.1MiB / 512MiB   47.67%    955MB / 6.16GB    0B / 0B     117
+--- END OF SAMPLE 331 ---
+2025-09-22 22:06:10
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.12%   264.1MiB / 512MiB   51.58%    6.86GB / 9.17GB   0B / 0B     29
+eee16608eae8   postgres_db   17.62%    252.7MiB / 512MiB   49.35%    958MB / 6.18GB    0B / 0B     116
+--- END OF SAMPLE 332 ---
+2025-09-22 22:06:20
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      159.50%   250.6MiB / 512MiB   48.95%    6.88GB / 9.2GB   0B / 0B     31
+eee16608eae8   postgres_db   17.63%    243.1MiB / 512MiB   47.49%    961MB / 6.2GB    0B / 0B     112
+--- END OF SAMPLE 333 ---
+2025-09-22 22:06:28
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.13%   208.7MiB / 512MiB   40.76%    6.91GB / 9.23GB   0B / 0B     31
+eee16608eae8   postgres_db   17.48%    230MiB / 512MiB     44.93%    963MB / 6.22GB    0B / 0B     109
+--- END OF SAMPLE 334 ---
+2025-09-22 22:06:36
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.97%   250.4MiB / 512MiB   48.91%    6.93GB / 9.26GB   0B / 0B     31
+eee16608eae8   postgres_db   16.52%    259.8MiB / 512MiB   50.75%    966MB / 6.24GB    0B / 0B     121
+--- END OF SAMPLE 335 ---
+2025-09-22 22:06:43
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      161.99%   234MiB / 512MiB     45.71%    6.95GB / 9.29GB   0B / 0B     31
+eee16608eae8   postgres_db   18.98%    217.5MiB / 512MiB   42.47%    969MB / 6.26GB    0B / 0B     104
+--- END OF SAMPLE 336 ---
+2025-09-22 22:06:54
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      160.23%   249.8MiB / 512MiB   48.79%    6.97GB / 9.32GB   0B / 0B     31
+eee16608eae8   postgres_db   1.12%     231.9MiB / 512MiB   45.30%    971MB / 6.28GB    0B / 0B     106
+--- END OF SAMPLE 337 ---
+2025-09-22 22:07:01
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      163.30%   233.8MiB / 512MiB   45.66%    6.99GB / 9.35GB   0B / 0B     31
+eee16608eae8   postgres_db   19.22%    223.3MiB / 512MiB   43.61%    974MB / 6.3GB     0B / 0B     107
+--- END OF SAMPLE 338 ---
+2025-09-22 22:07:09
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.15%   249.4MiB / 512MiB   48.71%    7.02GB / 9.38GB   0B / 0B     31
+eee16608eae8   postgres_db   18.60%    255.4MiB / 512MiB   49.87%    977MB / 6.32GB    0B / 0B     119
+--- END OF SAMPLE 339 ---
+2025-09-22 22:07:16
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      162.64%   244.6MiB / 512MiB   47.78%    7.04GB / 9.41GB   0B / 0B     30
+eee16608eae8   postgres_db   18.57%    219MiB / 512MiB     42.78%    979MB / 6.34GB    0B / 0B     105
+--- END OF SAMPLE 340 ---
+2025-09-22 22:07:27
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.22%   250.5MiB / 512MiB   48.92%    7.06GB / 9.44GB   0B / 0B     31
+eee16608eae8   postgres_db   16.31%    251.9MiB / 512MiB   49.20%    983MB / 6.37GB    0B / 0B     116
+--- END OF SAMPLE 341 ---
+2025-09-22 22:07:34
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      166.46%   204.8MiB / 512MiB   40.00%    7.08GB / 9.47GB   0B / 0B     27
+eee16608eae8   postgres_db   18.52%    225.1MiB / 512MiB   43.96%    986MB / 6.39GB    0B / 0B     105
+--- END OF SAMPLE 342 ---
+2025-09-22 22:07:42
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      158.90%   248.1MiB / 512MiB   48.46%    7.11GB / 9.51GB   0B / 0B     31
+eee16608eae8   postgres_db   16.13%    217.4MiB / 512MiB   42.47%    988MB / 6.41GB    0B / 0B     96
+--- END OF SAMPLE 343 ---
+2025-09-22 22:07:49
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      157.77%   243.1MiB / 512MiB   47.49%    7.13GB / 9.53GB   0B / 0B     31
+eee16608eae8   postgres_db   17.52%    174.5MiB / 512MiB   34.09%    991MB / 6.43GB    0B / 0B     73
+--- END OF SAMPLE 344 ---
+2025-09-22 22:08:00
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      23.97%    209.2MiB / 512MiB   40.85%    7.15GB / 9.56GB   0B / 0B     31
+eee16608eae8   postgres_db   15.61%    122.7MiB / 512MiB   23.97%    994MB / 6.45GB    0B / 0B     43
+--- END OF SAMPLE 345 ---
+2025-09-22 22:08:07
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+c3bf0684602f   pymedapp      0.29%     209.2MiB / 512MiB   40.85%    7.15GB / 9.56GB   0B / 0B     31
+eee16608eae8   postgres_db   0.06%     124.6MiB / 512MiB   24.34%    994MB / 6.45GB    0B / 0B     44
+--- END OF SAMPLE 346 ---
